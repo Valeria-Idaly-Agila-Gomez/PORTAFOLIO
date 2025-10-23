@@ -2,7 +2,7 @@
 
 ## 📚 Portafolio Digital de Aprendizaje  
 
-### 🧩 Unidad 1 – Fundamentos de la Programación  
+### 🧩 Unidad 1 – Fundamentos de la Programación   
 *(Temas: algoritmos, pseudocódigo, estructuras básicas...)*  
 
 ### ⚙️ Unidad 2 – Lenguajes de Programación  
