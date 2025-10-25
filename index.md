@@ -14,17 +14,15 @@
 ## 📚 Contenidos de la Unidad  
 
 ### 🔢 Algoritmos, Pseudocódigo y Diagramas de Flujo  
-*<h1 align="center">🧠 Algoritmos</h1>
+# 🧠 Algoritmos
 
-<p align="center">
-Un <strong>algoritmo</strong> es un método diseñado para resolver un problema mediante una 
-<strong>secuencia finita de pasos lógicos y ordenados</strong>.<br>
+Un **algoritmo** es un método diseñado para resolver un problema mediante una  
+**secuencia finita de pasos lógicos y ordenados**.  
 Cada paso indica una acción específica que debe ejecutarse para alcanzar una solución.
-</p>
 
 ---
 
-<h2>⚙️ Características de un buen algoritmo</h2>
+## ⚙️ Características de un buen algoritmo
 
 > 💡 Un buen algoritmo cumple con las siguientes características:
 
@@ -32,9 +30,9 @@ Cada paso indica una acción específica que debe ejecutarse para alcanzar una s
 - 🔁 **Definido:** Siempre debe producir el mismo resultado si se repite con los mismos datos.  
 - ⏳ **Finito:** Tiene un número limitado de pasos y debe terminar en algún momento.
 
-<p>
-Los algoritmos generalmente se dividen en tres partes fundamentales:
-</p>
+---
+
+### Partes fundamentales de un algoritmo
 
 - 🧩 **Entrada:** datos que se ingresan al sistema.  
 - ⚙️ **Proceso:** conjunto de operaciones o pasos que transforman los datos.  
@@ -42,179 +40,128 @@ Los algoritmos generalmente se dividen en tres partes fundamentales:
 
 ---
 
-<h2>💻 Resolución de Problemas con una Computadora</h2>
+## 💻 Resolución de Problemas con una Computadora
 
-<p>El proceso para resolver un problema mediante una computadora comprende varias fases:</p>
+El proceso para resolver un problema mediante una computadora comprende varias fases:
 
 1. 🕵️‍♀️ **Análisis del problema:** Identificar los datos de entrada, salida, pasos a seguir y posibles restricciones.  
-2. ✏️ **Diseño del algoritmo:** Determinar cómo realizará el programa la tarea. Aquí se utilizan dos herramientas esenciales:
-   - 📜 **Pseudocódigo**
-   - 🔄 **Diagramas de flujo**
-3. 💬 **Codificación:** Traducir el algoritmo a un lenguaje de programación (por ejemplo, C, Python o Java).  
+2. ✏️ **Diseño del algoritmo:** Determinar cómo realizará el programa la tarea. Aquí se utilizan dos herramientas esenciales:  
+   - 📜 **Pseudocódigo**  
+   - 🔄 **Diagramas de flujo**  
+3. 💬 **Codificación:** Traducir el algoritmo a un lenguaje de programación (C, Python o Java).  
 4. 🧪 **Pruebas:** Ejecutar el programa para verificar su funcionamiento y corregir errores.  
 5. 📚 **Documentación y mantenimiento:** Dejar registro del funcionamiento del programa y cómo puede modificarse o mejorarse.
 
 ---
-<h2>📝 Pseudocódigo</h2>
 
-<p>
-El <strong>pseudocódigo</strong> es una forma de escribir los pasos de un algoritmo usando un lenguaje similar al español, combinando instrucciones y decisiones lógicas.  
-Permite planificar cómo resolver un problema antes de programarlo en un lenguaje real.
-</p>
+## 📝 Pseudocódigo
 
----
+El **pseudocódigo** es una forma de escribir los pasos de un algoritmo usando un lenguaje similar al español,  
+combinando instrucciones y decisiones lógicas. Permite planificar cómo resolver un problema antes de programarlo en un lenguaje real.
 
-<h3>🎯 Objetivos del pseudocódigo</h3>
+### 🎯 Objetivos del pseudocódigo
 
 - 💡 **Expresar de manera clara la lógica de un proceso.**  
 - 🔄 **Facilitar la traducción del algoritmo a un lenguaje de programación.**
-<h2>📊 Diagrama de Flujo</h2>
-
-<p>
-Un <strong>diagrama de flujo</strong> es una representación gráfica de un algoritmo o proceso, en la que cada paso se muestra mediante símbolos estandarizados y se conectan con flechas para indicar el orden en que se ejecutan.
-</p>
 
 ---
 
-<h3>🎯 Objetivos del diagrama de flujo</h3>
+## 📊 Diagrama de Flujo
 
-- 🖼️ **Visualizar de forma clara y organizada los pasos de un proceso.**  
-- 🔄 **Facilitar la comprensión de la lógica de un algoritmo.**  
-- 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
- 
-<p align="center">
-  # 🏛️ Universidad Nacional de Loja  
-## ⚙️ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables  
-### 💻 Carrera: Ingeniería en Ciencias de la Computación  
-### 📘 Asignatura: Teoría de la Programación  
-### 🕓 Ciclo: 1  
-### 📅 Período Académico: 2025 - 2026  
-### 👩‍🏫 Docente: Ing. Lessette Geoconda López Faicán  
-### 👩‍🎓 Estudiante: Valeria Idaly Agila Gómez  
+Un **diagrama de flujo** es una representación gráfica de un algoritmo, proceso o sistema,  
+donde cada paso se muestra mediante símbolos estandarizados y las flechas indican la secuencia de ejecución.  
+Se utiliza para planificar, comprender y documentar procesos, y resulta muy útil tanto en programación como en administración y otras áreas donde se necesite organizar procedimientos de manera clara.
 
----
-
-# 🧩 Unidad 1  
-
-## 📚 Contenidos de la Unidad  
-
-### 🔢 Algoritmos, Pseudocódigo y Diagramas de Flujo  
-*<h1 align="center">🧠 Algoritmos</h1>
-
-<p align="center">
-Un <strong>algoritmo</strong> es un método diseñado para resolver un problema mediante una 
-<strong>secuencia finita de pasos lógicos y ordenados</strong>.<br>
-Cada paso indica una acción específica que debe ejecutarse para alcanzar una solución.
-</p>
-
----
-
-<h2>⚙️ Características de un buen algoritmo</h2>
-
-> 💡 Un buen algoritmo cumple con las siguientes características:
-
-- ✅ **Preciso:** Los pasos deben estar claramente definidos y en orden lógico, sin ambigüedades.  
-- 🔁 **Definido:** Siempre debe producir el mismo resultado si se repite con los mismos datos.  
-- ⏳ **Finito:** Tiene un número limitado de pasos y debe terminar en algún momento.
-
-<p>
-Los algoritmos generalmente se dividen en tres partes fundamentales:
-</p>
-
-- 🧩 **Entrada:** datos que se ingresan al sistema.  
-- ⚙️ **Proceso:** conjunto de operaciones o pasos que transforman los datos.  
-- 📤 **Salida:** resultado final que se obtiene después del procesamiento.
-
----
-
-<h2>💻 Resolución de Problemas con una Computadora</h2>
-
-<p>El proceso para resolver un problema mediante una computadora comprende varias fases:</p>
-
-1. 🕵️‍♀️ **Análisis del problema:** Identificar los datos de entrada, salida, pasos a seguir y posibles restricciones.  
-2. ✏️ **Diseño del algoritmo:** Determinar cómo realizará el programa la tarea. Aquí se utilizan dos herramientas esenciales:
-   - 📜 **Pseudocódigo**
-   - 🔄 **Diagramas de flujo**
-3. 💬 **Codificación:** Traducir el algoritmo a un lenguaje de programación (por ejemplo, C, Python o Java).  
-4. 🧪 **Pruebas:** Ejecutar el programa para verificar su funcionamiento y corregir errores.  
-5. 📚 **Documentación y mantenimiento:** Dejar registro del funcionamiento del programa y cómo puede modificarse o mejorarse.
-
----
-<h2>📝 Pseudocódigo</h2>
-
-<p>
-El <strong>pseudocódigo</strong> es una forma de escribir los pasos de un algoritmo usando un lenguaje similar al español, combinando instrucciones y decisiones lógicas.  
-Permite planificar cómo resolver un problema antes de programarlo en un lenguaje real.
-</p>
-
----
-
-<h3>🎯 Objetivos del pseudocódigo</h3>
-
-- 💡 **Expresar de manera clara la lógica de un proceso.**  
-- 🔄 **Facilitar la traducción del algoritmo a un lenguaje de programación.**
-<h2>📊 Diagrama de Flujo</h2>
-
----
-<div style="display: flex; align-items: center; gap: 20px;">
-  <p>
-     <p>
-Un <strong>diagrama de flujo</strong> es una representación gráfica de un algoritmo o proceso, en la que cada paso se muestra mediante símbolos estandarizados y se conectan con flechas para indicar el orden en que se ejecutan.
-</p>
-
-   <h3>🎯 Objetivos del diagrama de flujo</h3>
+### 🎯 Objetivos del diagrama de flujo
 
 - 🖼️ **Visualizar de forma clara y organizada los pasos de un proceso.**  
 - 🔄 **Facilitar la comprensión de la lógica de un algoritmo.**  
 - 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
 
-  </p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/c343656a-1ce9-4998-ab34-6b6d7dcc792e" 
        alt="simbolos-de-diagramas-de-flujo" 
-       width="200">
-</div>
-
-
-
-### 🧱 Programación por Bloques  
-### 💡 Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales  
-### ⚙️ Principales Dificultades en la Aplicación de los Contenidos  
-### 🧠 Reflexión Crítica de los Aprendizajes de la Unidad  
-
----
-
-## 📝 Tareas Entregadas  
-### 🧮 Herramientas de Algoritmos (Pseudocódigo y Diagramas de Flujo)  
-### 💻 Instalación de Lenguajes de Programación (C, Python o Java)  
-### 🔠 Primer Acercamiento a la Construcción de Algoritmos Secuenciales (en Pseudocódigo)  
-### 🧩 Del Diseño del Algoritmo a la Construcción del Programa (en Python)  
-
----
-
-# 🚫 Unidad 2 (No Aplica)  
-# 🚫 Unidad 3 (No Aplica)  
-# 🚫 Conclusiones Generales (No Aplica)  
-
----
-
-# 📚 Bibliografía (Formato IEEE)  
-# 🤖 Declaración de Uso de la IA Generativa  
+       width="300">
 </p>
 
+---
 
+### 🧱 Programación por Bloques
 
-### 🧱 Programación por Bloques  
+La **programación por bloques** es una forma de crear programas utilizando **bloques visuales** que se arrastran y conectan, en lugar de escribir líneas de código.  
+Cada bloque representa una instrucción, operación o control de flujo, lo que permite **aprender la lógica de programación de manera intuitiva y visual**.  
+
+Se enfoca en **enseñar la lógica de la programación** sin necesidad de memorizar la sintaxis de un lenguaje de programación.
+
+---
+
+## 🌟 Ventajas
+
+- 🎯 **Ideal para principiantes:** permite experimentar con conceptos de programación sin errores de sintaxis.  
+- 💡 **Aprendizaje de algoritmos y estructuras de control:** como bucles, condicionales y variables.  
+- 🧠 **Refuerza el pensamiento lógico y computacional.**
+
+---
+
+## 💻 Ejemplos de plataformas interactivas
+
+- **Blockly Games:** Plataforma educativa de Google que enseña programación paso a paso mediante juegos.  
+  [https://blockly.games/?lang=en](https://blockly.games/?lang=en)  
+- **Pilas Bloques:** Herramienta para crear animaciones y juegos utilizando bloques visuales.  
+  [https://pilasbloques.program.ar/online/#/](https://pilasbloques.program.ar/online/#/)
+
+---
+
+## ⚙️ Cómo funciona
+
+1. Seleccionas un bloque que represente una instrucción o acción.  
+2. Lo arrastras al área de trabajo y lo conectas a otros bloques.  
+3. Configuras parámetros si es necesario (por ejemplo, número de repeticiones en un bucle).  
+4. Ejecutas el programa para ver cómo funciona tu algoritmo de manera visual.
+
 ### 💡 Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales  
 ### ⚙️ Principales Dificultades en la Aplicación de los Contenidos  
 ### 🧠 Reflexión Crítica de los Aprendizajes de la Unidad  
 
 ---
+## 🖥️ Herramienta Digital para Pseudocódigo
 
-## 📝 Tareas Entregadas  
-### 🧮 Herramientas de Algoritmos (Pseudocódigo y Diagramas de Flujo)  
-### 💻 Instalación de Lenguajes de Programación (C, Python o Java)  
-### 🔠 Primer Acercamiento a la Construcción de Algoritmos Secuenciales (en Pseudocódigo)  
-### 🧩 Del Diseño del Algoritmo a la Construcción del Programa (en Python)  
+# 🖥️ PSeInt (Pseudocode Interpreter)
+
+## 📝 Definición
+
+Según **Celi (2023)**, PSeInt es un **software educativo interactivo** que facilita el aprendizaje de la **lógica de programación** y la **construcción de algoritmos en pseudocódigo en español** [1].  
+Además, permite visualizar los algoritmos mediante **diagramas de flujo**, lo que ayuda a comprender mejor el funcionamiento de un programa.
+
+**Valverde, Cajamarca y Moreano (2023)** indican que PSeInt también puede integrarse con **Diagramas de Flujo de Datos (DFD)**, extendiendo su uso a procesos más complejos [5].  
+Por su parte, **Tinedo-Rodríguez (2023)** señala que esta herramienta **fortalece el pensamiento lógico y computacional**, además de mejorar habilidades cognitivas y lingüísticas [6].
+
+---
+
+## ⚙️ Funciones principales
+
+- 📝 **Crear, ejecutar y depurar algoritmos.**  
+- 💡 **No requiere aprender sintaxis compleja** de un lenguaje formal.  
+- 🔄 **Compatible con DFD** para procesos complejos.  
+- 🧠 **Desarrolla pensamiento lógico y computacional.**
+
+---
+
+## 🌟 Beneficios
+
+- 🎯 **Ideal para estudiantes principiantes.**  
+- 🧩 **Refuerza habilidades cognitivas y lingüísticas.**  
+- ✏️ **Permite planificar algoritmos** antes de codificarlos.
+
+
+
+
+## 📝 Tareas Entregadas
+
+- 🧮 Herramientas de Algoritmos (Pseudocódigo y Diagramas de Flujo)  
+- 💻 Instalación de Lenguajes de Programación (C, Python o Java)  
+- 🔠 Primer Acercamiento a la Construcción de Algoritmos Secuenciales (en Pseudocódigo)  
+- 🧩 Del Diseño del Algoritmo a la Construcción del Programa (en Python)  
 
 ---
 
@@ -225,4 +172,4 @@ Un <strong>diagrama de flujo</strong> es una representación gráfica de un algo
 ---
 
 # 📚 Bibliografía (Formato IEEE)  
-# 🤖 Declaración de Uso de la IA Generativa  
+# 🤖 Declaración de Uso de la IA Generativa
