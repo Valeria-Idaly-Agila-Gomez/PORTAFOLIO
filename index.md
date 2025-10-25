@@ -81,8 +81,10 @@ Un <strong>diagrama de flujo</strong> es una representación gráfica de un algo
 - 🖼️ **Visualizar de forma clara y organizada los pasos de un proceso.**  
 - 🔄 **Facilitar la comprensión de la lógica de un algoritmo.**  
 - 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
-  ![Diagrama de flujo](imagen.md)
-
+ 
+<p align="center">
+  <img src=".png" alt="Diagrama de flujo" width="400">
+</p>
 
 
 
