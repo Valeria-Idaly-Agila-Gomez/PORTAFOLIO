@@ -83,7 +83,7 @@ Un <strong>diagrama de flujo</strong> es una representación gráfica de un algo
 - 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
  
 <p align="center">
-  <img src=".png" alt="Diagrama de flujo" width="400">
+  <img src="simbolos-de-diagramas-de-flujo.png" alt="Diagrama de flujo" width="400">
 </p>
 
 
