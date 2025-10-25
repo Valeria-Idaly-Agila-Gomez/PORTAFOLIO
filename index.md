@@ -19,7 +19,7 @@
 
 Un **algoritmo** es un método diseñado para resolver un problema mediante una  
 **secuencia finita de pasos lógicos y ordenados**.  
-Cada paso indica una acción específica que debe ejecutarse para alcanzar una solución.
+Cada paso indica una acción específica que debe ejecutarse para alcanzar una solución[1].
 
 ---
 
@@ -29,15 +29,15 @@ Cada paso indica una acción específica que debe ejecutarse para alcanzar una s
 
 - ✅ **Preciso:** Los pasos deben estar claramente definidos y en orden lógico, sin ambigüedades.  
 - 🔁 **Definido:** Siempre debe producir el mismo resultado si se repite con los mismos datos.  
-- ⏳ **Finito:** Tiene un número limitado de pasos y debe terminar en algún momento.
+- ⏳ **Finito:** Tiene un número limitado de pasos y debe terminar en algún momento [1].
 
 ---
 
 ### Partes fundamentales de un algoritmo
 
-- 🧩 **Entrada:** datos que se ingresan al sistema.  
-- ⚙️ **Proceso:** conjunto de operaciones o pasos que transforman los datos.  
-- 📤 **Salida:** resultado final que se obtiene después del procesamiento.
+- 🧩 **Entrada:** Datos que se ingresan al sistema.  
+- ⚙️ **Proceso:** Conjunto de operaciones o pasos que transforman los datos.  
+- 📤 **Salida:** Resultado final que se obtiene después del procesamiento.
 
 ---
 
@@ -51,7 +51,7 @@ El proceso para resolver un problema mediante una computadora comprende varias f
    - 🔄 **Diagramas de flujo**  
 3. 💬 **Codificación:** Traducir el algoritmo a un lenguaje de programación (C, Python o Java).  
 4. 🧪 **Pruebas:** Ejecutar el programa para verificar su funcionamiento y corregir errores.  
-5. 📚 **Documentación y mantenimiento:** Dejar registro del funcionamiento del programa y cómo puede modificarse o mejorarse.
+5. 📚 **Documentación y mantenimiento:** Dejar registro del funcionamiento del programa y cómo puede modificarse o mejorarse[1].
 
 ---
 
@@ -120,9 +120,6 @@ Se enfoca en **enseñar la lógica de la programación** sin necesidad de memori
 3. Configuras parámetros si es necesario (por ejemplo, número de repeticiones en un bucle).  
 4. Ejecutas el programa para ver cómo funciona tu algoritmo de manera visual.
 
-### 💡 Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales  
-### ⚙️ Principales Dificultades en la Aplicación de los Contenidos  
-### 🧠 Reflexión Crítica de los Aprendizajes de la Unidad  
 
 ---
 ## 🖥️ Herramienta Digital para Pseudocódigo
@@ -131,11 +128,11 @@ Se enfoca en **enseñar la lógica de la programación** sin necesidad de memori
 
 ## 📝 Definición
 
-Según **Celi (2023)**, PSeInt es un **software educativo interactivo** que facilita el aprendizaje de la **lógica de programación** y la **construcción de algoritmos en pseudocódigo en español** [1].  
+Según **Celi (2023)**, PSeInt es un **software educativo interactivo** que facilita el aprendizaje de la **lógica de programación** y la **construcción de algoritmos en pseudocódigo en español** [2].  
 Además, permite visualizar los algoritmos mediante **diagramas de flujo**, lo que ayuda a comprender mejor el funcionamiento de un programa.
 
-**Valverde, Cajamarca y Moreano (2023)** indican que PSeInt también puede integrarse con **Diagramas de Flujo de Datos (DFD)**, extendiendo su uso a procesos más complejos [5].  
-Por su parte, **Tinedo-Rodríguez (2023)** señala que esta herramienta **fortalece el pensamiento lógico y computacional**, además de mejorar habilidades cognitivas y lingüísticas [6].
+**Valverde, Cajamarca y Moreano (2023)** indican que PSeInt también puede integrarse con **Diagramas de Flujo de Datos (DFD)**, extendiendo su uso a procesos más complejos [3].  
+Por su parte, **Tinedo-Rodríguez (2023)** señala que esta herramienta **fortalece el pensamiento lógico y computacional**, además de mejorar habilidades cognitivas y lingüísticas [4].
 
 ---
 
@@ -161,11 +158,11 @@ Por su parte, **Tinedo-Rodríguez (2023)** señala que esta herramienta **fortal
 
 El **lenguaje C** es un lenguaje de programación estructurado creado en la década de 1970.  
 Permite desarrollar programas de manera **eficiente y comprensible**, combinando **control de bajo nivel** con **estructuras de alto nivel** como funciones, condicionales y bucles.  
-Es ampliamente utilizado en la enseñanza universitaria por su capacidad de enseñar **lógica de programación** y **resolución de problemas** [1].
+Es ampliamente utilizado en la enseñanza universitaria por su capacidad de enseñar **lógica de programación** y **resolución de problemas** [5].
 
 En palabras propias, C es un lenguaje que permite **crear programas de manera ordenada y eficiente**.  
 Me parece interesante porque combina **control directo sobre la memoria** con estructuras como funciones y bucles, lo que permite escribir **programas claros y poderosos**.  
-Además, es muy utilizado para aprender lógica de programación y entender cómo funcionan los algoritmos, y ha servido como base para otros lenguajes como **C++ y Java** [1].
+Además, es muy utilizado para aprender lógica de programación y entender cómo funcionan los algoritmos, y ha servido como base para otros lenguajes como **C++ y Java** [5].
 
 ---
 
@@ -177,10 +174,10 @@ Además, es muy utilizado para aprender lógica de programación y entender cóm
 - 🔧 **Base para otros lenguajes:** Inspiró el desarrollo de C++, C# y Java.  
 - 🔄 **Versátil:** Se utiliza en sistemas operativos, software embebido y aplicaciones científicas [1].
 
-- # 🔹 Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales
+ # 🔹 Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales
 ## 🔹 Algoritmo en Pseint: Conversion de medidas  
 
-**📌 Enunciado:**  
+📌 **Enunciado:**   
 Desarrollar un algoritmo que solicite al usuario una cantidad en **metros** y la convierta a **kilómetros, centímetros y milímetros**, mostrando todos los resultados de forma clara.
 
 
@@ -209,11 +206,15 @@ Algoritmo Conversion_De_Medidas
     Escribir "Equivalente en centímetros: ", cm, " cm"
     Escribir "Equivalente en milímetros: ", mm, " mm"
 FinAlgoritmo
+
+```
+
+
 ## 🔹 Diagrama de flujo: Conversión de Medidas (Metros a Km, Cm, Mm)
 
 ## 🔹 Algoritmo: Calculo_De_Aceleracion
 
-**📌 Enunciado:**  
+📌 **Enunciado:**   
 Calcular la aceleración de un cuerpo solicitando la velocidad inicial, velocidad final y el tiempo transcurrido. Se mostrará la aceleración con sus unidades.
 
 ---
@@ -245,10 +246,15 @@ Algoritmo Calculo_De_Aceleracion
     Escribir "La aceleración del cuerpo es: ", aceleracion, " m/s²"
 
 FinAlgoritmo
+```
+
+
+
+
 ## 🔹 Diagrama de flujo: Calculo de la aceleracion
 # 💻 Implementación en Lenguaje C
 
-**📌 Nota:**  
+📌 **Nota:**  
 Los algoritmos presentados anteriormente (Conversión de Medidas, Cálculo de Aceleración) **fueron implementados en lenguaje C**, respetando la lógica secuencial de cada uno.
 
 ---
@@ -278,6 +284,10 @@ int main() {
 
     return 0;
 }
+```
+### 🐞 Depuración del código de Conversión de Medidas
+
+
 
 ## 2️⃣ Cálculo de Aceleración en C
 
@@ -304,7 +314,10 @@ int main() {
 
     return 0;
 }
+
 ```
+### 🐞 Depuración del código de cálculo de acelaración
+
 
 
 
@@ -330,4 +343,15 @@ int main() {
 ---
 
 # 📚 Bibliografía (Formato IEEE)  
+[1] E. N. Figueroa Piscoya, I. Maldonado Ramirez, y R. C. Santa Cruz Acosta, *Fundamentos de programación*, Biblioteca Nacional del Perú, 2021. [Online]. Available: https://virtual.autonoma.edu.pe/uploads/10-03-2023_141635939_ANICAMASILVAJOSECARLOS.pdf
+
+[2] P. Celi, Fundamentos de Programación basados en PSeInt, Instituto Tecnológico Quito, 2023. Disponible en: https://itq.edu.ec/wp-content/uploads/2023/04/2023-04 19_fundamentos_de_programacion_basados_en_pseint.pdf
+[3] V. L. Valverde, J. Cajamarca y G. Moreano, Fundamentos de Programación con DFD-PSeInt-Python, CIDE Ecuador, 2023. Disponible en: https://repositorio.cidecuador.org/bitstream/123456789/2695/3/Fundamentos%20de%20Programaci%C3%B3n%20con%20DFD.pdf
+[4] A. Tinedo-Rodríguez, “El uso de PSeInt para el desarrollo integrado del pensamiento computacional, de las destrezas lingüísticas y de inglés para fines específicos…”, ResearchGate, 2023. Disponible en: https://www.researchgate.net/publication/376859172_El_uso_de_PSeint_para_el_desarrollo_integrado_del_pensamiento_computacional_de_las_destr...
+Declaración de
+
+[5] M. Goin, *Caminando junto al Lenguaje C*, Editorial UNRN, 2022. [Online]. Available: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1
+
+
+
 # 🤖 Declaración de Uso de la IA Generativa
