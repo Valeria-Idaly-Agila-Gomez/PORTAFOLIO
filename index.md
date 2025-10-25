@@ -168,7 +168,7 @@ Un <strong>diagrama de flujo</strong> es una representación gráfica de un algo
 - 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
  
 <p align="center">
-  <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8bf8992e-807e-43e5-af40-beb3d5059847" />
+ <img width="482" height="454" alt="simbolos-de-diagramas-de-flujo" src="https://github.com/user-attachments/assets/c343656a-1ce9-4998-ab34-6b6d7dcc792e" />
 
 </p>
 
