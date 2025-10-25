@@ -152,28 +152,7 @@ Por su parte, **Tinedo-Rodríguez (2023)** señala que esta herramienta **fortal
 - 🎯 **Ideal para estudiantes principiantes.**  
 - 🧩 **Refuerza habilidades cognitivas y lingüísticas.**  
 - ✏️ **Permite planificar algoritmos** antes de codificarlos.
-  # 💻 Lenguaje C
-
-## 📝 Definición
-
-El **lenguaje C** es un lenguaje de programación estructurado creado en la década de 1970.  
-Permite desarrollar programas de manera **eficiente y comprensible**, combinando **control de bajo nivel** con **estructuras de alto nivel** como funciones, condicionales y bucles.  
-Es ampliamente utilizado en la enseñanza universitaria por su capacidad de enseñar **lógica de programación** y **resolución de problemas** [1].
-
-En palabras propias, C es un lenguaje que permite **crear programas de manera ordenada y eficiente**.  
-Me parece interesante porque combina **control directo sobre la memoria** con estructuras como funciones y bucles, lo que permite escribir **programas claros y poderosos**.  
-Además, es muy utilizado para aprender lógica de programación y entender cómo funcionan los algoritmos, y ha servido como base para otros lenguajes como **C++ y Java** [1].
-
----
-
-## 🌟 Características principales
-
-- 🧩 **Estructurado:** Facilita la organización de algoritmos mediante funciones y bloques de código.  
-- 🌐 **Portátil:** Los programas pueden ejecutarse en diferentes sistemas operativos.  
-- ⚡ **Eficiente:** Permite manipular memoria directamente y optimizar recursos.  
-- 🔧 **Base para otros lenguajes:** Inspiró el desarrollo de C++, C# y Java.  
-- 🔄 **Versátil:** Se utiliza en sistemas operativos, software embebido y aplicaciones científicas [1].
-
+ 
 # 💻 Lenguaje de Programación
 # 💻 Lenguaje C
 
@@ -196,6 +175,38 @@ Además, es muy utilizado para aprender lógica de programación y entender cóm
 - ⚡ **Eficiente:** Permite manipular memoria directamente y optimizar recursos.  
 - 🔧 **Base para otros lenguajes:** Inspiró el desarrollo de C++, C# y Java.  
 - 🔄 **Versátil:** Se utiliza en sistemas operativos, software embebido y aplicaciones científicas [1].
+## 🔹 Algoritmo en Pseint: Conversion de medidas  
+
+**📌 Enunciado:**  
+Desarrollar un algoritmo que solicite al usuario una cantidad en **metros** y la convierta a **kilómetros, centímetros y milímetros**, mostrando todos los resultados de forma clara.
+
+---
+
+### 🧠 Pseudocódigo:
+
+```pseudocode
+Algoritmo Conversion_De_Medidas
+    // DEFINIR VARIABLES
+    Definir metros, km, cm, mm Como Real
+
+    // ENTRADA:
+    // Se solicita al usuario ingresar una cantidad en metros.
+    Escribir "Ingrese la cantidad en metros:"
+    Leer metros
+
+    // PROCESO:
+    // Se realizan las conversiones correspondientes.
+    km <- metros / 1000
+    cm <- metros * 100
+    mm <- metros * 1000
+
+    // SALIDA:
+    // Se muestran los resultados de la conversión en diferentes unidades.
+    Escribir "Medida ingresada: ", metros, " m"
+    Escribir "Equivalente en kilómetros: ", km, " km"
+    Escribir "Equivalente en centímetros: ", cm, " cm"
+    Escribir "Equivalente en milímetros: ", mm, " mm"
+FinAlgoritmo
 
 
 
