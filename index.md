@@ -14,17 +14,30 @@
 ## 📚 Contenidos de la Unidad  
 
 ### 🔢 Algoritmos, Pseudocódigo y Diagramas de Flujo  
-#¿Que son los algoritmos?
-Un algoritmo es un método diseñado para resolver un problema mediante una secuencia finita de pasos lógicos y ordenados.
+*<h1 align="center">🧠 Algoritmos</h1>
+
+<p align="center">
+Un <strong>algoritmo</strong> es un método diseñado para resolver un problema mediante una 
+<strong>secuencia finita de pasos lógicos y ordenados</strong>.<br>
 Cada paso indica una acción específica que debe ejecutarse para alcanzar una solución.
+</p>
 
-Un buen algoritmo cumple con las siguientes características:
+---
 
-Preciso: Los pasos deben estar claramente definidos y en orden lógico, sin ambigüedades.
+<h2>⚙️ Características de un buen algoritmo</h2>
 
-Definido: Siempre debe producir el mismo resultado si se repite con los mismos datos.
+> 💡 Un buen algoritmo cumple con las siguientes características:
 
-Finito: Tiene un número limitado de pasos y debe terminar en algún momento.
+- ✅ **Preciso:** Los pasos deben estar claramente definidos y en orden lógico, sin ambigüedades.  
+- 🔁 **Definido:** Siempre debe producir el mismo resultado si se repite con los mismos datos.  
+- ⏳ **Finito:** Tiene un número limitado de pasos y debe terminar en algún momento.
+
+---
+
+<p align="center">
+📘 <em>Un algoritmo es la base de toda programación: convierte una idea en una solución lógica que una computadora puede ejecutar.</em>
+</p>
+**
 ### 🧱 Programación por Bloques  
 ### 💡 Ejemplos de Algoritmos con Estructuras Lineales/Secuenciales  
 ### ⚙️ Principales Dificultades en la Aplicación de los Contenidos  
