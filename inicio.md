@@ -9,7 +9,7 @@
 ## ○ Unidad 1 - Teoría de la Programación
 
 ### 📚 Contenidos de la Unidad
-- 🧩 Algoritmos, pseudocódigo y diagrama de flujo
+ [- 🧩 Algoritmos, pseudocódigo y diagrama de flujo](Algoritmos.md)
 - 🟦 Programación por bloques
 - 📂 Ejemplos de algoritmos con estructuras lineales/secuenciales
 - ⚠️ Principales dificultades en la aplicación de los contenidos
