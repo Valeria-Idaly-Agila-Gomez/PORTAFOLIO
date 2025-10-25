@@ -155,31 +155,24 @@ Permite planificar cómo resolver un problema antes de programarlo en un lenguaj
 - 🔄 **Facilitar la traducción del algoritmo a un lenguaje de programación.**
 <h2>📊 Diagrama de Flujo</h2>
 
-<p>
+---
+<div style="display: flex; align-items: center; gap: 20px;">
+  <p>
+     <p>
 Un <strong>diagrama de flujo</strong> es una representación gráfica de un algoritmo o proceso, en la que cada paso se muestra mediante símbolos estandarizados y se conectan con flechas para indicar el orden en que se ejecutan.
 </p>
 
----
-
-<h3>🎯 Objetivos del diagrama de flujo</h3>
+   <h3>🎯 Objetivos del diagrama de flujo</h3>
 
 - 🖼️ **Visualizar de forma clara y organizada los pasos de un proceso.**  
 - 🔄 **Facilitar la comprensión de la lógica de un algoritmo.**  
 - 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
- <style>
-        .contenedor {
-            display: flex; /* Hace que el texto y la imagen estén en línea */
-            align-items: center; /* Centra verticalmente */
-            gap: 20px; /* Espacio entre texto e imagen */
-        }
-        .contenedor img {
-            width: 300px; /* Ajusta el tamaño de la imagen */
-        }
-    </style>
-<p align="center">
- <img width="482" height="454" alt="simbolos-de-diagramas-de-flujo" src="https://github.com/user-attachments/assets/c343656a-1ce9-4998-ab34-6b6d7dcc792e" />
 
-</p>
+  </p>
+  <img src="https://github.com/user-attachments/assets/c343656a-1ce9-4998-ab34-6b6d7dcc792e" 
+       alt="simbolos-de-diagramas-de-flujo" 
+       width="200">
+</div>
 
 
 
