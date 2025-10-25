@@ -7,6 +7,7 @@
 ### 👩‍🏫 Docente: Ing. Lessette Geoconda López Faicán  
 ### 👩‍🎓 Estudiante: Valeria Idaly Agila Gómez  
 
+
 ---
 
 # 🧩 Unidad 1  
@@ -181,6 +182,9 @@ Además, es muy utilizado para aprender lógica de programación y entender cóm
 Desarrollar un algoritmo que solicite al usuario una cantidad en **metros** y la convierta a **kilómetros, centímetros y milímetros**, mostrando todos los resultados de forma clara.
 
 ---
+📌 **Algoritmo:**  
+`Definir metros, km, cm, mm Como Real`
+
 
 ### 🧠 Pseudocódigo:
 
