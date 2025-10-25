@@ -70,4 +70,4 @@ Se utiliza para planificar, comprender y documentar procesos, y resulta muy úti
 </p>
 
 ---
-[Presione aqui par volver al inicio](inicio.md)
+[Presione aqui para volver al inicio](inicio.md)
