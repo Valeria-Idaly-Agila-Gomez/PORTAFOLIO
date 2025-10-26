@@ -42,6 +42,8 @@
 - 🚫 No aplica
 
 ## ○ Bibliografía (Formato IEEE)
+ [- 🧩 Bibliografía unidad 1](bibliofragiaunidad1.md)
+ 
 
 
 ## ○ Declaración de Uso de IA Generativa
