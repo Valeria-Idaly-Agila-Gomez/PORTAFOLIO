@@ -3,7 +3,7 @@
 
 Un **algoritmo** es un método diseñado para resolver un problema mediante una  
 **secuencia finita de pasos lógicos y ordenados**.  
-Cada paso indica una acción específica que debe ejecutarse para alcanzar una solución.
+Cada paso indica una acción específica que debe ejecutarse para alcanzar una solución[1].
 
 ---
 
@@ -13,7 +13,7 @@ Cada paso indica una acción específica que debe ejecutarse para alcanzar una s
 
 - ✅ **Preciso:** Los pasos deben estar claramente definidos y en orden lógico, sin ambigüedades.  
 - 🔁 **Definido:** Siempre debe producir el mismo resultado si se repite con los mismos datos.  
-- ⏳ **Finito:** Tiene un número limitado de pasos y debe terminar en algún momento.
+- ⏳ **Finito:** Tiene un número limitado de pasos y debe terminar en algún momento[1].
 
 ---
 
@@ -35,7 +35,7 @@ El proceso para resolver un problema mediante una computadora comprende varias f
    - 🔄 **Diagramas de flujo**  
 3. 💬 **Codificación:** Traducir el algoritmo a un lenguaje de programación (C, Python o Java).  
 4. 🧪 **Pruebas:** Ejecutar el programa para verificar su funcionamiento y corregir errores.  
-5. 📚 **Documentación y mantenimiento:** Dejar registro del funcionamiento del programa y cómo puede modificarse o mejorarse.
+5. 📚 **Documentación y mantenimiento:** Dejar registro del funcionamiento del programa y cómo puede modificarse o mejorarse[1].
 
 ---
 
@@ -55,7 +55,7 @@ combinando instrucciones y decisiones lógicas. Permite planificar cómo resolve
 
 Un **diagrama de flujo** es una representación gráfica de un algoritmo, proceso o sistema,  
 donde cada paso se muestra mediante símbolos estandarizados y las flechas indican la secuencia de ejecución.  
-Se utiliza para planificar, comprender y documentar procesos, y resulta muy útil tanto en programación como en administración y otras áreas donde se necesite organizar procedimientos de manera clara.
+Se utiliza para planificar, comprender y documentar procesos, y resulta muy útil tanto en programación como en administración y otras áreas donde se necesite organizar procedimientos de manera clara[1].
 
 ### 🎯 Objetivos del diagrama de flujo
 
