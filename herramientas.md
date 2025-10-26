@@ -78,5 +78,20 @@ Además, es muy utilizado para aprender lógica de programación y entender cóm
 - ⚡ **Eficiente:** Permite manipular memoria directamente y optimizar recursos.  
 - 🔧 **Base para otros lenguajes:** Inspiró el desarrollo de C++, C# y Java.  
 - 🔄 **Versátil:** Se utiliza en sistemas operativos, software embebido y aplicaciones científicas [1].
+
+  ## 💻 Ejemplo: Hola Mundo
+
+### 🌟 En Lenguaje C
+
+```c
+#include <stdio.h>
+
+int main() {
+    // Mostrar mensaje en pantalla
+    printf("Hola Mundo\n");
+    return 0;
+}
+```
+
   --------
   [Presione aqui para regresar al inicio](inicio.md)
