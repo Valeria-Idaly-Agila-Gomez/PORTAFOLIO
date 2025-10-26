@@ -35,3 +35,7 @@ Se enfoca en **enseñar la lógica de la programación** sin necesidad de memori
 
 
 ---
+![bloques](https://github.com/user-attachments/assets/2565dcbc-b705-4546-9a39-838c330e10f5)
+
+[Preione aqui para regresar al inicio](inicio.md)
+
