@@ -11,6 +11,10 @@ Además, permite visualizar los algoritmos mediante **diagramas de flujo**, lo q
 **Valverde, Cajamarca y Moreano (2023)** indican que PSeInt también puede integrarse con **Diagramas de Flujo de Datos (DFD)**, extendiendo su uso a procesos más complejos [3].  
 Por su parte, **Tinedo-Rodríguez (2023)** señala que esta herramienta **fortalece el pensamiento lógico y computacional**, además de mejorar habilidades cognitivas y lingüísticas [4].
 
+PSeInt ofrece un **entorno de práctica interactivo**, simulando la experiencia de programar en un lenguaje real, lo que facilita la transición a lenguajes como **C, Java o Python**.  
+Su interfaz intuitiva permite centrarse en la **lógica del problema**, sin complicaciones sintácticas.  
+Además, permite realizar **pruebas rápidas de los algoritmos**, detectando errores lógicos antes de pasar a un lenguaje formal.
+
 ---
 
 ## ⚙️ Funciones principales
@@ -27,6 +31,30 @@ Por su parte, **Tinedo-Rodríguez (2023)** señala que esta herramienta **fortal
 - 🎯 **Ideal para estudiantes principiantes.**  
 - 🧩 **Refuerza habilidades cognitivas y lingüísticas.**  
 - ✏️ **Permite planificar algoritmos** antes de codificarlos.
+- 
+  ---------------
+  ## 📝 Ejemplo en PSeInt: Suma de dos números
+
+```pseudocode
+Algoritmo Suma_Dos_Numeros
+    // Definir variables
+    Definir num1, num2, suma Como Entero
+
+    // Entrada de datos
+    Escribir "Ingrese el primer número:"
+    Leer num1
+    Escribir "Ingrese el segundo número:"
+    Leer num2
+
+    // Proceso: sumar los dos números
+    suma <- num1 + num2
+
+    // Salida: mostrar el resultado
+    Escribir "La suma de ", num1, " y ", num2, " es: ", suma
+FinAlgoritmo
+```
+
+
  
 # 💻 Lenguaje de Programación
 # 💻 Lenguaje C
