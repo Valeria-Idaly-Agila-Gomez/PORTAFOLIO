@@ -118,6 +118,7 @@ int main() {
 ### 🐞 Depuración del código de Conversión de Medidas
 
 
+![mers](https://github.com/user-attachments/assets/705e627b-e370-46b0-ba73-9a7ac361e222)
 
 ## 2️⃣ Cálculo de Aceleración en C
 
@@ -147,6 +148,9 @@ int main() {
 
 ```
 ### 🐞 Depuración del código de cálculo de acelaración
+
+![mis](https://github.com/user-attachments/assets/f65a9db5-9bdf-42e3-947c-6a9ba878fa7c)
+
 -----
 [Presione aqui para volver al inicio](inicio.md)
 
