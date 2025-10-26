@@ -141,5 +141,6 @@ int main() {
 
 ```
 ### 🐞 Depuración del código de cálculo de acelaración
-
+-----
+[Presione aqui para volver al inicio](inicio.md)
 
