@@ -22,7 +22,7 @@
 [- 📝 Reflexión crítica de los aprendizajes de la unidad](reflexion.md)
 
 ### 🛠️ Tareas Entregadas
-[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](herramientasalgo.md)
+[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](herramientaalgo.md)
 
 [- 💻 Instalación de lenguajes de programación (C, Python o Java)](instalacion.md)
 
