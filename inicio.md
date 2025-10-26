@@ -42,7 +42,7 @@
 - 🚫 No aplica
 
 ## ○ Bibliografía (Formato IEEE)
- [- 🧩 Bibliografía unidad 1](bibliofragiaunidad1.md)
+ [- 🧩 Bibliografía unidad 1](bibliografiaunidad1.md)
  
 
 
