@@ -35,6 +35,7 @@ FinAlgoritmo
 
 
 ## 🔹 Diagrama de flujo: Conversión de Medidas (Metros a Km, Cm, Mm)
+![medidas](https://github.com/user-attachments/assets/a0914a9e-2a6b-4aae-9dae-531f2e0064c6)
 
 ## 🔹 Algoritmo: Calculo_De_Aceleracion
 
@@ -71,11 +72,16 @@ Algoritmo Calculo_De_Aceleracion
 
 FinAlgoritmo
 ```
-
-
+-------
 
 
 ## 🔹 Diagrama de flujo: Calculo de la aceleracion
+
+![aceleracion](https://github.com/user-attachments/assets/3ecaea6d-0383-4cba-af5b-ebc7b6653e51)
+
+
+
+
 # 💻 Implementación en Lenguaje C
 
 📌 **Nota:**  
