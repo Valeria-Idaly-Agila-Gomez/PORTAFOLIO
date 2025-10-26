@@ -2,9 +2,8 @@
 ## 🖥️ Herramienta Digital para Pseudocódigo
 
 # 🖥️ PSeInt (Pseudocode Interpreter)
-
+PSeInt es una de las herramientas digitales más utilizadas para representar algoritmos en pseudocódigo. Su uso facilita el aprendizaje de la lógica de programación y permite practicar antes de pasar a un lenguaje formal.
 ## 📝 Definición
-
 Según **Celi (2023)**, PSeInt es un **software educativo interactivo** que facilita el aprendizaje de la **lógica de programación** y la **construcción de algoritmos en pseudocódigo en español** [2].  
 Además, permite visualizar los algoritmos mediante **diagramas de flujo**, lo que ayuda a comprender mejor el funcionamiento de un programa.
 
@@ -33,7 +32,33 @@ Además, permite realizar **pruebas rápidas de los algoritmos**, detectando err
 - ✏️ **Permite planificar algoritmos** antes de codificarlos.
 - 
   ---------------
-  ## 📝 Ejemplo en PSeInt: Suma de dos números
+
+  ## 📝 Ejemplo de código en PSeInt
+
+El siguiente algoritmo muestra cómo se programa en **PSeInt**, utilizando un ejemplo de **suma de dos números**.
+
+### 🔹 Estructura del código:
+
+1. **Nombre del algoritmo:**  
+   Se declara con `Algoritmo Suma_Dos_Numeros`.
+
+2. **Definición de variables:**  
+   Se usan `Definir` para declarar el tipo y nombre de cada variable.  
+   Por ejemplo, `Entero` se utiliza para almacenar números enteros.
+
+3. **Entrada de datos:**  
+   `Leer` se usa para capturar información del usuario.
+
+4. **Procesos o cálculos:**  
+   Se realizan operaciones y se almacenan resultados en variables.
+
+5. **Salida de datos:**  
+   `Escribir` muestra resultados al usuario.
+
+6. **Finalización:**  
+   Se cierra el algoritmo con `FinAlgoritmo`.
+
+  ## 📝 Ejemplo: Suma de dos números
 
 ```pseudocode
 Algoritmo Suma_Dos_Numeros
@@ -53,6 +78,13 @@ Algoritmo Suma_Dos_Numeros
     Escribir "La suma de ", num1, " y ", num2, " es: ", suma
 FinAlgoritmo
 ```
+## 📝 Diagrama de flujo
+-----
+
+![suam](https://github.com/user-attachments/assets/ad26856a-e592-4145-99bb-2185f86a0914)
+
+-----
+En conclusión, **PSeInt** es una herramienta fundamental para quienes inician en la programación, ya que permite comprender la lógica de los algoritmos, detectar errores y prepararse para trabajar con lenguajes de programación más complejos como C o Java.
 
 
  
@@ -92,6 +124,25 @@ int main() {
     return 0;
 }
 ```
+-------
+### 🌟 Depuración
+------
+![hola](https://github.com/user-attachments/assets/4470868d-5ffc-4a8f-970b-147d02e8aba2)
+
+----
+En este código se muestra el típico ejemplo de **“Hola Mundo”**, utilizado para introducir el lenguaje C.
+Este programa está compuesto por las siguientes partes:
+
+**#include <stdio.h>**: Es una librería estándar del lenguaje C que permite usar funciones de entrada y salida, como printf, que se utiliza para mostrar mensajes en pantalla.
+
+**int main():** Es la función principal del programa; todo código en C empieza su ejecución desde aquí.
+
+**printf("Hola Mundo\n");**: Es una instrucción que imprime un mensaje en la pantalla.
+
+**return 0;**: Indica que el programa finalizó correctamente.
+
+En resumen, este código enseña la estructura básica de un programa en C:
+incluir librerías, definir la función principal, ejecutar instrucciones y finalizar correctamente.
 
   --------
   [Presione aqui para regresar al inicio](inicio.md)
