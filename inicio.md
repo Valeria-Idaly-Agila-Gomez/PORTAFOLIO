@@ -22,10 +22,10 @@
 [- 📝 Reflexión crítica de los aprendizajes de la unidad](reflexion.md)
 
 ### 🛠️ Tareas Entregadas
-- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)
-- 💻 Instalación de lenguajes de programación (C, Python o Java)
-- 🚀 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
-- 🔹 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](herramientasalgo.md)
+[- 💻 Instalación de lenguajes de programación (C, Python o Java)](instalacion.md)
+[- 🚀 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](primer.md)
+[- 🔹 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](diseño.md)
 
 ---
 
