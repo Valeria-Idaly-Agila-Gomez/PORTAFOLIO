@@ -30,11 +30,7 @@ Se enfoca en **enseñar la lógica de la programación** sin necesidad de memori
 2. Lo arrastras al área de trabajo y lo conectas a otros bloques.  
 3. Configuras parámetros si es necesario (por ejemplo, número de repeticiones en un bucle).  
 4. Ejecutas el programa para ver cómo funciona tu algoritmo de manera visual.
-------
-[Preione aqui para regresar al inicio](inicio.md)
-
-
----
+----------------
 ![bloques](https://github.com/user-attachments/assets/2565dcbc-b705-4546-9a39-838c330e10f5)
 
 [Preione aqui para regresar al inicio](inicio.md)
