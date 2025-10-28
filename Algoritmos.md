@@ -19,9 +19,9 @@ Cada paso indica una acción específica que debe ejecutarse para alcanzar una s
 
 ### Partes fundamentales de un algoritmo
 
-- 🧩 **Entrada:** datos que se ingresan al sistema.  
-- ⚙️ **Proceso:** conjunto de operaciones o pasos que transforman los datos.  
-- 📤 **Salida:** resultado final que se obtiene después del procesamiento.
+- 🧩 **Entrada:** Datos que se ingresan al sistema.  
+- ⚙️ **Proceso:** Conjunto de operaciones o pasos que transforman los datos.  
+- 📤 **Salida:** Resultado final que se obtiene después del procesamiento.
 
 ---
 
