@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="600" height="200" alt="logo_negro" src="https://github.com/user-attachments/assets/99308c09-423e-4db9-aa11-bad32b65c173" />
+</p>
+
 # 🏛️ Universidad Nacional de Loja  
 ## ⚙️ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables  
 ### 💻 Carrera: Ingeniería en Ciencias de la Computación  
@@ -54,3 +58,6 @@ Gracias a esta tecnología, fue posible **organizar, redactar y etiquetar correc
 Además, se empleó la IA para **corregir errores gramaticales**, **mejorar la redacción** y **explicar conceptos técnicos** relacionados con programación, algoritmos y herramientas digitales.  
 
 Este proceso facilitó la creación de un portafolio más **claro, dinámico y profesional**, demostrando el uso responsable y educativo de la **inteligencia artificial** en el desarrollo académico.
+
+<img width="900" alt="IA" src="https://github.com/user-attachments/assets/f42f393b-0d1d-4ae8-ba91-4d2ca4b96e6b" />
+
