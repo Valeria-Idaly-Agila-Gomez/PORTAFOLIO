@@ -45,5 +45,12 @@
  [- 🧩 Bibliografía unidad 1](bibliografiaunidad1.md)
  
 
-
+----------------------------------
 ## ○ Declaración de Uso de IA Generativa
+----------------------------------
+Para la elaboración de este portafolio en **GitHub**, se utilizó la **inteligencia artificial ChatGPT** como herramienta de apoyo.  
+Gracias a esta tecnología, fue posible **organizar, redactar y etiquetar correctamente el contenido** utilizando el lenguaje de formato **Markdown**, lo que permitió una mejor presentación visual y estructural de los temas.  
+
+Además, se empleó la IA para **corregir errores gramaticales**, **mejorar la redacción** y **explicar conceptos técnicos** relacionados con programación, algoritmos y herramientas digitales.  
+
+Este proceso facilitó la creación de un portafolio más **claro, dinámico y profesional**, demostrando el uso responsable y educativo de la **inteligencia artificial** en el desarrollo académico.
