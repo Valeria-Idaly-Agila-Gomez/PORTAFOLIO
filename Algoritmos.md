@@ -38,6 +38,9 @@ El proceso para resolver un problema mediante una computadora comprende varias f
 5. 📚 **Documentación y mantenimiento:** Dejar registro del funcionamiento del programa y cómo puede modificarse o mejorarse[1].
 
 ---
+<img src="https://github.com/user-attachments/assets/364e3864-4645-470b-92d3-e985558a042e" alt="2838139-1613993931720-16x9" width="400">
+
+-------------
 
 ## 📝 Pseudocódigo
 
