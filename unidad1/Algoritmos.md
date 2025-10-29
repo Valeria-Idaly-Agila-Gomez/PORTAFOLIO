@@ -48,20 +48,17 @@ Los algoritmos se pueden clasificar según el tipo de análisis que realizan o l
 - Se utilizan cuando no se requiere un cálculo exacto, sino una evaluación lógica o descriptiva.
 
 **Ejemplo:**
+Ejemplo
+¿Qué hacer para probar el nuevo pastel de chocolate en la cafetería?
 
-Inicio
-
-Ir al cine.
-
-Comprar una entrada (o ticket).
-
-Ver la película.
-
-Regresar a casa.
-
-Fin
-
-
+| **Versión simple**                  | **Versión numerada**                   |
+| ----------------------------------- | -------------------------------------- |
+| Inicio                              | 0. Inicio                              |
+| Ir a la cafetería.                  | 1. Ir a la cafetería.                  |
+| Pedir el nuevo pastel de chocolate. | 2. Pedir el nuevo pastel de chocolate. |
+| Probar el pastel.                   | 3. Probar el pastel.                   |
+| Pagar y salir.                      | 4. Pagar y salir.                      |
+| Fin                                 | 5. Fin                                 |
 
  Aquí el resultado es cualitativo, porque se trata de la realización de acciones, no de números.
 
@@ -72,17 +69,13 @@ Fin
 
 **Ejemplo:**
 
-Inicio
-
-Número uno = 3
-
-Número dos = 5
-
-Sumar número uno y número dos
-
-El resultado es 8
-
-Fin
+Ejemplo: ¿Qué hacer para sumar dos números?
+0. Inicio
+1. Numero uno 3.
+2. Número dos 5.
+3. Sumar 3 y 5.
+4. Es resultado es 8.
+5. Fin
 
 
 
