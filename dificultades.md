@@ -4,7 +4,7 @@ Durante el desarrollo de la unidad, una de las principales dificultades que enco
 Otro aspecto que resultó un poco complicado fue el **manejo de cadenas de texto**, ya que era necesario prestar atención a cómo se debían escribir y utilizar en el código.
 Por otro lado, **no tuve más complicaciones**, ya que contaba con experiencia previa usando PSeInt y algunos de los contenidos ya los conocía. Además, gracias a las explicaciones de mi docente, pude comprender los temas de manera más clara y aplicarlos correctamente.
 
-[Presione aqui para volver al inicio](inicio.md)
+[Presione aqui para volver a la unidad](Unidad1.md)
 -----
 ![istockphoto-1495336577-612x612](https://github.com/user-attachments/assets/e155eb55-9e24-4e56-b5d6-b9fca0bc69a5)
 
