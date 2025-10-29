@@ -37,7 +37,59 @@ El proceso para resolver un problema mediante una computadora comprende varias f
 4. 🧪 **Pruebas:** Ejecutar el programa para verificar su funcionamiento y corregir errores.  
 5. 📚 **Documentación y mantenimiento:** Dejar registro del funcionamiento del programa y cómo puede modificarse o mejorarse[1].
 
+
+# 🏷️ Clasificación de los Algoritmos
+
+Los algoritmos se pueden clasificar según el tipo de análisis que realizan o la forma en que se aplican los datos:
+
+## 1. Algoritmos Cualitativos
+
+- Se enfocan en la **calidad de los resultados** y en la toma de decisiones basadas en criterios no numéricos.  
+- Se utilizan cuando no se requiere un cálculo exacto, sino una evaluación lógica o descriptiva.
+
+**Ejemplo:**
+
+Inicio
+
+Ir al cine.
+
+Comprar una entrada (o ticket).
+
+Ver la película.
+
+Regresar a casa.
+
+Fin
+
+
+
+ Aquí el resultado es cualitativo, porque se trata de la realización de acciones, no de números.
+
+## 2. Algoritmos Cuantitativos
+
+- Se centran en el **cálculo de valores numéricos exactos** y en la obtención de resultados medibles.  
+- Se usan cuando se necesita un resultado preciso mediante operaciones matemáticas.
+
+**Ejemplo:**
+
+Inicio
+
+Número uno = 3
+
+Número dos = 5
+
+Sumar número uno y número dos
+
+El resultado es 8
+
+Fin
+
+
+
+Aquí el resultado es cuantitativo, porque se obtiene un número exacto mediante una operación matemática.
+
 ---
+
 <img src="https://github.com/user-attachments/assets/364e3864-4645-470b-92d3-e985558a042e" alt="2838139-1613993931720-16x9" width="400">
 
 -------------
