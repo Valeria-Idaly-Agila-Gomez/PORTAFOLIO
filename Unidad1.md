@@ -21,3 +21,6 @@
 [- 🚀 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](primer.md)
 
 [- 🔹 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](diseño.md)
+
+------
+[Presione aqui para volver al inicio](inicio.md)
