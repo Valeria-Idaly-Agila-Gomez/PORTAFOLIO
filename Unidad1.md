@@ -11,6 +11,7 @@
 
 [- 📝 Reflexión crítica de los aprendizajes de la unidad](reflexion.md)
 ----------------------------------------------
+
 ### 🛠️ Tareas Entregadas
 [- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](herramientaalgo.md)
 
