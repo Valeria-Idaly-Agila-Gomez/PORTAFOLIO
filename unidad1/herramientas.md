@@ -144,5 +144,44 @@ Este programa está compuesto por las siguientes partes:
 En resumen, este código enseña la estructura básica de un programa en C:
 incluir librerías, definir la función principal, ejecutar instrucciones y finalizar correctamente.
 
+# 🧩 Para poder compilar y ejecutar un programa en C se hace lo siguiente
+
+## 1. **Compilación**
+
+El comando:
+
+```bash
+gcc holamundo.c -o holamundo
+```
+
+
+## 💡 Significa lo siguiente:
+
+- **`gcc`** → es el compilador de C (**GNU Compiler Collection**).  
+- **`holamundo.c`** → es el archivo de código fuente que contiene tu programa.  
+- **`-o holamundo`** → indica el nombre del archivo ejecutable de salida.  
+
+👉 **En resumen:**  
+Este comando **traduce tu código C** a un archivo ejecutable que tu computadora puede entender.  
+Después de ejecutarlo, se genera un archivo llamado **`holamundo.exe`**.  
+
+---
+
+Luego usas este comando:
+
+
+**.\holamundo.exe**
+
+
+**.\ →** indica que el archivo se encuentra en el directorio actual.
+
+**holamundo.exe →** es el programa compilado que vas a ejecutar.
+
+👉 Al presionar Enter, el sistema ejecuta el programa y muestra el resultado (por ejemplo: Hola mundo).
+| Etapa           | Comando                        | Qué hace                                                                 |
+| :-------------- | :----------------------------- | :----------------------------------------------------------------------- |
+| **Compilación** | `gcc holamundo.c -o holamundo` | Traduce el código fuente en C a lenguaje máquina y genera un ejecutable. |
+| **Ejecución**   | `.\holamundo.exe`              | Ejecuta el programa y muestra el resultado.                              |
+
   --------
 [Presione aqui para volver a la unidad](Unidad1.md)
