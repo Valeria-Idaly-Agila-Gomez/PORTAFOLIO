@@ -81,10 +81,6 @@ Ejemplo: ¿Qué hacer para sumar dos números?
 
 Aquí el resultado es cuantitativo, porque se obtiene un número exacto mediante una operación matemática.
 
----
-
-<img src="https://github.com/user-attachments/assets/364e3864-4645-470b-92d3-e985558a042e" alt="2838139-1613993931720-16x9" width="400">
-
 -------------
 
 ## 📝 Pseudocódigo
