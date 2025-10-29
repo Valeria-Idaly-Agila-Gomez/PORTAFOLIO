@@ -10,7 +10,7 @@
 ### 📅 Período Académico: 2025 - 2026  
 ### 👩‍🏫 Docente: Ing. Lessette Geoconda López Faicán  
 ### 👩‍🎓 Estudiante: Valeria Idaly Agila Gómez  
-## ○ Unidad 1 - Teoría de la Programación
+ [- 🧩 Unidad 1](Unidad1.md)
 
 ### 📚 Contenidos de la Unidad
  [- 🧩 Algoritmos, pseudocódigo y diagrama de flujo](Algoritmos.md)
