@@ -107,6 +107,15 @@ Se utiliza para planificar, comprender y documentar procesos, y resulta muy úti
 - 🔄 **Facilitar la comprensión de la lógica de un algoritmo.**  
 - 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
 
+
+| Símbolo | Nombre               | Función                                               |
+| :-----: | :------------------- | :---------------------------------------------------- |
+|    ⭘    | **Inicio / Fin**     | Marca el comienzo o el final del proceso.             |
+|    ⬜    | **Proceso**          | Representa una operación o cálculo.                   |
+|    ⧫    | **Decisión**         | Indica una condición que puede ser verdadera o falsa. |
+|    ⬒    | **Entrada / Salida** | Muestra la lectura o impresión de datos.              |
+|    ➜    | **Flecha**           | Indica la dirección del flujo.                        |
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c343656a-1ce9-4998-ab34-6b6d7dcc792e" 
        alt="simbolos-de-diagramas-de-flujo" 
