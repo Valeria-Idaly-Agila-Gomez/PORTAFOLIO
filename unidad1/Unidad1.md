@@ -1,7 +1,7 @@
 ### 📚 Contenidos de la Unidad
  [- 🧩 Algoritmos, pseudocódigo y diagrama de flujo](Algoritmos.md)
  
-[- 🟦 Programación por bloques](bloques.md)
+[- 🟦 Programación por bloques](bloque.md)
 
 [-💻 Herramientas digitales y lenguajes de programación](herramientas.md)
 
