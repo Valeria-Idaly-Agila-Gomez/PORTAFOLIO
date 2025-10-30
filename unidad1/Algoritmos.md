@@ -175,6 +175,7 @@ Algoritmo Suma_Dos_Numeros
 FinAlgoritmo
 ```
 
+
 ## 📊 Diagrama de Flujo
 
 Un **diagrama de flujo** es una representación gráfica de un algoritmo, proceso o sistema,  
@@ -187,9 +188,62 @@ Se utiliza para planificar, comprender y documentar procesos, y resulta muy úti
 - 🔄 **Facilitar la comprensión de la lógica de un algoritmo.**  
 - 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
 
+  ### ⚙️ Características del diagrama de flujo
+
+- 🔹 **Secuencial:** Muestra los pasos de manera ordenada y lógica.  
+- 🔹 **Simbólico:** Utiliza figuras geométricas estandarizadas para representar acciones o decisiones.  
+- 🔹 **Claridad visual:** Cada símbolo y flecha debe colocarse de forma que el flujo se entienda fácilmente.  
+- 🔹 **Direccional:** Las flechas indican el camino que sigue el proceso, evitando confusiones.  
+- 🔹 **Universal:** Puede ser interpretado por cualquier persona con conocimientos básicos sobre su simbología.  
+- 🔹 **Flexible:** Puede modificarse y adaptarse según las necesidades del proceso.  
+- 🔹 **Documental:** Sirve como guía o registro de cómo funciona un procedimiento o programa.  
+
+- ----
+  **La siguiente tabla muestra los principales símbolos utilizados en los diagramas de flujo, junto con su nombre y función.**
+
+
+![simbolos diagrama flujo](https://github.com/user-attachments/assets/7554d4be-fe1d-4bc0-be86-dfa85485ed73)
+
+
+*Tabla de símbolos elaborada por mí en Word.*
+
+
+
+
 *A continuación, se presenta el diagrama de flujo correspondiente al algoritmo anterior.*
 
 ![suam](https://github.com/user-attachments/assets/ad26856a-e592-4145-99bb-2185f86a0914)
+
+
+ ## 📝 Prueba de escritorio
+
+La **prueba de escritorio** es una técnica utilizada en **programación y análisis de algoritmos** para **verificar manualmente cómo funciona un programa o algoritmo**, paso a paso, antes de ejecutarlo en una computadora.  
+
+Se realiza simulando la ejecución del algoritmo con **datos de entrada específicos**, observando cómo cambian las variables y cuál sería la **salida esperada**. Esto permite **detectar errores lógicos** y entender mejor la lógica del proceso.
+
+### 🔹 Características de la prueba de escritorio
+
+- Se realiza **sin usar la computadora** (aunque también puede hacerse con software).  
+- Permite **detectar errores lógicos** antes de programar.  
+- Muestra cómo se modifican las **variables** en cada paso.  
+- Ayuda a **comprender la lógica del algoritmo** de manera visual.
+
+## 🧮 Prueba de escritorio: Suma de dos números
+
+| **Número 1** | **Número 2** | **suma <- num1 + num2**      | **Resultado** |
+|--------------|--------------|-------------------|---------------|
+| 5            | 3            | 5 + 3             | 8             |
+| 10           | 7            | 10 + 7            | 17            |
+| 12           | 15           | 12 + 15           | 27            |
+| 4           | 9            | 4 + 9            | 13            |
+
+------
+ 
+  **Prueba de escritorio en PSeInt.** 
+
+  
+![suma dos](https://github.com/user-attachments/assets/44cc63e0-9d13-47a8-b6e0-04bc592ef677)
+
 
 ----
 
