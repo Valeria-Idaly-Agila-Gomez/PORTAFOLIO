@@ -70,6 +70,7 @@ Ejemplo
 **Ejemplo:**
 
 Ejemplo: ¿Qué hacer para sumar dos números?
+
 0. Inicio
 1. Numero uno 3.
 2. Número dos 5.
@@ -138,7 +139,7 @@ El siguiente algoritmo muestra cómo se programa en **PSeInt**, utilizando un ej
    Se declara con `Algoritmo Suma_Dos_Numeros`.
 
 2. **Definición de variables:**  
-   Se usan `Definir` para declarar el tipo y nombre de cada variable.  
+   Se usa `Definir` para declarar el tipo y nombre de cada variable.  
    Por ejemplo, `Entero` se utiliza para almacenar números enteros.
 
 3. **Entrada de datos:**  
@@ -185,6 +186,8 @@ Se utiliza para planificar, comprender y documentar procesos, y resulta muy úti
 - 🖼️ **Visualizar de forma clara y organizada los pasos de un proceso.**  
 - 🔄 **Facilitar la comprensión de la lógica de un algoritmo.**  
 - 🐞 **Detectar errores antes de programar o ejecutar el proceso.**
+
+*A continuación, se presenta el diagrama de flujo correspondiente al algoritmo anterior.*
 
 ![suam](https://github.com/user-attachments/assets/ad26856a-e592-4145-99bb-2185f86a0914)
 
