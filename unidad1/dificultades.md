@@ -6,6 +6,6 @@ Por otro lado, **no tuve más complicaciones**, ya que contaba con experiencia p
 
 [Presione aqui para volver a la unidad](Unidad1.md)
 -----
-![istockphoto-1495336577-612x612](https://github.com/user-attachments/assets/e155eb55-9e24-4e56-b5d6-b9fca0bc69a5)
+
 
 
