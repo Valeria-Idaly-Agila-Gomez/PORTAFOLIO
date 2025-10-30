@@ -3,8 +3,6 @@
  
 [- 🟦 Programación por bloques](bloque.md)
 
-[-💻 Herramientas digitales y lenguajes de programación](herramientas.md)
-
 [- 📂 Ejemplos de algoritmos con estructuras lineales/secuenciales](ejemplos.md)
 
 [- ⚠️ Principales dificultades en la aplicación de los contenidos](dificultades.md)
