@@ -20,7 +20,6 @@
 
 [- 🔹 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](diseño.md)
 
-[- 🔹 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](a.md)
 
 
 
