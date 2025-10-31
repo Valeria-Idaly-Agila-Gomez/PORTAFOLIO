@@ -12,7 +12,7 @@
 ----------------------------------------------
 
 ### 🛠️ Tareas Entregadas
-[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](herramientaalgo.md)
+[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](unidad1/Herramientas digitales Pseint (3).pdf)
 
 [- 💻 Instalación de lenguajes de programación (C, Python o Java)](instalacion.md)
 
