@@ -22,6 +22,6 @@
 
 
 
-[- 🔹 Del diseño del algoritmo con estructuras secu](index.md)
+[- 🔹 Del diseño del algoritmo con estructuras secu](PORTAFOLIO/index.md)
 
 
