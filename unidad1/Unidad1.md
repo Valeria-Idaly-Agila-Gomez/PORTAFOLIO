@@ -21,4 +21,4 @@
 [- 🔹 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](diseño.md)
 
 ------
-[Presione aqui para volver al inicio](inicio.md)
+[Presione aqui para volver al inicio](inicio/inicio.md)
