@@ -13,4 +13,4 @@
 [5] M. Goin, *Caminando junto al Lenguaje C*, Editorial UNRN, 2022. [Online]. Available: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1
 
 ----------------------------------------------
- [Presione aqui para regresar al inicio](inicio.md)
+ [Presione aqui para regresar al inicio](index.md)
