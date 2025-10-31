@@ -22,6 +22,4 @@
 
 
 
-[- 🔹 Del diseño del algoritmo con estructuras secu](PORTAFOLIO/index.md)
-
 
