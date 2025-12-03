@@ -38,7 +38,7 @@ int main() {
 ### Diagrama de flujo: Leer un número y mostrar si es impar ⭐
 <img width="579" height="511" alt="image" src="https://github.com/user-attachments/assets/ffffa22c-f4a5-4c23-9f2a-efcede20548b" />
 
-
+--------
 
 
 ## ✔️ 2. Estructura Condicional Doble 
@@ -85,8 +85,9 @@ int main() {
 
 <img width="709" height="491" alt="image" src="https://github.com/user-attachments/assets/701dd4a0-b608-4b7d-9482-bb183799afd8" />
 
+-----------------------
 
-## ✔️ 3. Estructura Condicional Múltiple (En caso de…)
+## ✔️ 3. Estructura Condicional Múltiple
 
 La estructura condicional múltiple permite elegir **una opción entre varias** según el valor de una variable.  
 En C se usa con **switch**, y cada opción se define con un **case**.  
