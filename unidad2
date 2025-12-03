@@ -1,37 +1,37 @@
 
 ### 📚 Contenidos de la Unidad
 
-<div style="border: 2px solid #6ca0dc; border-radius: 12px; padding: 20px; background: #f7faff;">
+---
 
-#### 🧩 <strong>Estructuras Condicionales</strong>  
+#### 🧩 **Estructuras Condicionales**
 Tipos y ejercicios en diagrama de flujo y en C  
-👉 <a href="Algoritmos.md">Abrir contenido</a>
+👉 [Abrir contenido](Algoritmos.md)
 
 ---
 
-#### 🟦 <strong>Estructuras Repetitivas</strong>  
+#### 🟦 **Estructuras Repetitivas**
 Tipos y ejercicios en diagrama de flujo y en C  
-👉 <a href="bloque.md">Abrir contenido</a>
+👉 [Abrir contenido](bloque.md)
 
 ---
 
-#### 📂 <strong>Ejercicio Combinado</strong>  
+#### 📂 **Ejercicio Combinado**
 Uso de estructuras condicionales y repetitivas (Java o Python)  
-👉 <a href="ejemplos.md">Abrir contenido</a>
+👉 [Abrir contenido](ejemplos.md)
 
 ---
 
-#### ⚠️ <strong>Principales Dificultades</strong>  
+#### ⚠️ **Principales Dificultades**
 Errores comunes y cómo evitarlos  
-👉 <a href="dificultades.md">Abrir contenido</a>
+👉 [Abrir contenido](dificultades.md)
 
 ---
 
-#### 📝 <strong>Reflexión Crítica</strong>  
+#### 📝 **Reflexión Crítica**
 Análisis personal de los aprendizajes de la unidad  
-👉 <a href="reflexion.md">Abrir contenido</a>
+👉 [Abrir contenido](reflexion.md)
 
-</div>
+---
 
 
 ----------------------------------------------
