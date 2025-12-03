@@ -14,7 +14,7 @@
 ## ○ Unidad 1
  [- 🧩 **Unidad 1**](unidad1/Unidad1.md)
 ## ○ Unidad 2
- [- 🧩 **Unidad 1**](unidad2)
+ [- 🧩 **Unidad 2**](unidad2)
 
 ## ○ Unidad 3
 - 🚫 No aplica
