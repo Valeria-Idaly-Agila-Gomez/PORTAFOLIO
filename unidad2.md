@@ -1,15 +1,15 @@
 
 
 ### 📚 Contenidos de la Unidad
-- [✨ **Estructuras condicionales** (tipos y ejercicios en diagrama de flujo y en C)](Algoritmos.md)
+- [✨ **Estructuras condicionales** (tipos y ejercicios en diagrama de flujo y en C)](estructurascondicionales.md)
 
-- [🔄 **Estructuras repetitivas** (tipos y ejercicios en diagrama de flujo y en C)](bloque.md)
+- [🔄 **Estructuras repetitivas** (tipos y ejercicios en diagrama de flujo y en C)](estructurasrepetitivas.md)
 
-- [🧠 **Ejercicio combinado** (condicional + repetitiva en Java o Python)](ejemplos.md)
+- [🧠 **Ejercicio combinado** (condicional + repetitiva en Java o Python)](ejerciciocombinado.md)
 
 - [🚧 **Principales dificultades** en la aplicación de los contenidos](dificultades.md)
 
-- [📝 **Reflexión crítica** de los aprendizajes de la unidad](reflexion.md)
+- [📝 **Reflexión crítica** de los aprendizajes de la unidad](reflexioncritica.md)
 
 
 
