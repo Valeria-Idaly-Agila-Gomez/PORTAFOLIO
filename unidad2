@@ -1,1 +1,51 @@
 
+### 📚 Contenidos de la Unidad
+
+<div style="border: 2px solid #6ca0dc; border-radius: 12px; padding: 20px; background: #f7faff;">
+
+#### 🧩 <strong>Estructuras Condicionales</strong>  
+Tipos y ejercicios en diagrama de flujo y en C  
+👉 <a href="Algoritmos.md">Abrir contenido</a>
+
+---
+
+#### 🟦 <strong>Estructuras Repetitivas</strong>  
+Tipos y ejercicios en diagrama de flujo y en C  
+👉 <a href="bloque.md">Abrir contenido</a>
+
+---
+
+#### 📂 <strong>Ejercicio Combinado</strong>  
+Uso de estructuras condicionales y repetitivas (Java o Python)  
+👉 <a href="ejemplos.md">Abrir contenido</a>
+
+---
+
+#### ⚠️ <strong>Principales Dificultades</strong>  
+Errores comunes y cómo evitarlos  
+👉 <a href="dificultades.md">Abrir contenido</a>
+
+---
+
+#### 📝 <strong>Reflexión Crítica</strong>  
+Análisis personal de los aprendizajes de la unidad  
+👉 <a href="reflexion.md">Abrir contenido</a>
+
+</div>
+
+
+----------------------------------------------
+
+### 🛠️ Tareas Entregadas
+[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](herramienta.md)
+
+[- 💻 Instalación de lenguajes de programación (C, Python o Java)](instalacion.md)
+
+[- 🚀 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](construccion.md)
+
+[- 🔹 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](diseño.md)
+
+
+
+
+
