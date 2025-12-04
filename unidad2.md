@@ -1,6 +1,6 @@
 
 
-### 📚 Contenidos de la Unidad
+### 📚 Contenidos de la Unidad 2
 - [✨ **Estructuras condicionales** (tipos y ejercicios en diagrama de flujo y en C)](estructurascondicionales.md)
 
 - [🔄 **Estructuras repetitivas** (tipos y ejercicios en diagrama de flujo y en C)](estructurasrepetitivas.md)
