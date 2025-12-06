@@ -127,5 +127,7 @@ public class precio
 
 <img width="403" height="376" alt="image" src="https://github.com/user-attachments/assets/60eaeb0f-bf80-4eeb-8158-a0af3e857076" />
 
+----------
+
 [Presione aqui para volver a la unidad](unidad2.md)
 
