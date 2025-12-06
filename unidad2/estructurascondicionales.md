@@ -7,7 +7,7 @@ Gracias a ellas, el programa puede ejecutar diferentes instrucciones según la s
 
 ## ✔️ 1. Estructura Condicional Simple 
 
-La estructura condicional simple se usa cuando se quiere que **solo se ejecute una acción si la condición se cumple**.  
+La estructura condicional simple se usa cuando se quiere que **solo se ejecute una acción si la condición se cumple** [5].  
 Si la condición es falsa, **no se ejecuta nada**.
 
 ### 🔸 Su estructura en C es:
@@ -89,7 +89,7 @@ int main() {
 
 ## ✔️ 3. Estructura Condicional Múltiple
 
-La estructura condicional múltiple permite elegir **una opción entre varias** según el valor de una variable.  
+La estructura condicional múltiple permite elegir **una opción entre varias** según el valor de una variable [5].  
 En C se usa con **switch**, y cada opción se define con un **case**.  
 También incluye un **default** para cuando ningún caso coincide.
 
