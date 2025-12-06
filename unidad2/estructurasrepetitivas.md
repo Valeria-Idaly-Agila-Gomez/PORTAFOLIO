@@ -7,14 +7,16 @@ Se utilizan cuando se necesita **repetir tareas**, recorrer datos, validar infor
 ---
 
 ## ✔️ 1. Bucle `while` (mientras)
-
 El ciclo **while** repite un bloque de instrucciones **mientras la condición sea verdadera** [5].  
-Antes de cada repetición, verifica la condición.  
-Si la condición es falsa desde el inicio *el ciclo no se ejecuta*.
+Antes de cada repetición, se verifica la condición.  
+Si la condición es falsa desde el inicio, *el ciclo no se ejecuta ni una sola vez*.  
 
-🔸 **Cuándo usarlo:**  
+Este tipo de ciclo es útil para controlar la repetición basada en **una condición que puede variar durante la ejecución del programa**. Permite crear bucles que continúan hasta que se cumpla una determinada situación, sin necesidad de conocer de antemano el número exacto de repeticiones.
+
+### 🔸 Cuándo usarlo
 - Cuando no se sabe cuántas veces se repetirá el ciclo.  
-- Cuando depende de una condición externa que puede cambiar durante la ejecución.
+- Cuando la repetición depende de una condición externa que puede cambiar durante la ejecución.  
+- Para validar entradas de usuario, esperar una señal o condición, o controlar procesos que dependen de valores dinámicos.
 
 🔹 **Estructura en C:**
 ```c
@@ -53,14 +55,29 @@ int main() {
 ------------
 
 
+
 ## ✔️ 2. Bucle *do…while* (hacer…mientras)
 
-A diferencia del `while`, este ciclo **se ejecuta al menos una vez**, porque primero realiza las instrucciones y luego verifica la condición [5].
+
+A diferencia del ciclo `while`, el bucle **do…while** **se ejecuta al menos una vez**, ya que primero realiza las instrucciones y luego verifica la condición [5].  
+Esto lo hace ideal cuando es necesario garantizar que un bloque de código se ejecute antes de evaluar si debe repetirse.
+
+El bucle *do…while* permite crear procesos donde **la acción inicial es obligatoria**, y la repetición depende de una condición que se comprueba después de ejecutar el bloque de instrucciones. Es útil para validar entradas, realizar operaciones mínimas o controlar ciclos donde siempre se requiere un primer paso antes de la verificación.
 
 ### 🔸 Cuándo usarlo:
-- Cuando se necesita que el ciclo se ejecute **mínimo una vez**.
-- Cuando se **piden datos al usuario** y luego se valida la condición.
-- Cuando la acción debe realizarse antes de comprobar si continúa.
+- Cuando se necesita que el ciclo se ejecute **mínimo una vez**, independientemente de la condición.  
+- Cuando se **piden datos al usuario** y luego se valida si se debe repetir el ingreso.  
+- Cuando la acción debe realizarse antes de comprobar si el ciclo continúa.  
+- Para procesos interactivos donde la operación inicial no puede omitirse, como menús, cálculos preliminares o confirmaciones.
+
+### 🔹 Ejemplo en C:
+
+```c
+int numero;
+do {
+    printf("Ingrese un número mayor que 0: ");
+    scanf("%d", &numero);
+} while (numero <= 0);
 
 ### 🔹 Estructura en C:
 ```c
@@ -111,8 +128,8 @@ int main() {
 
 ## ✔️ 3. Bucle *for* (para)
 
-El ciclo `for` es ideal cuando se conoce de antemano la cantidad de repeticiones.  
-Incluye tres partes importantes dentro del paréntesis:
+El ciclo `for` es ideal cuando se conoce de antemano la **cantidad de repeticiones** que se desea realizar.  
+Se utiliza para ejecutar un bloque de instrucciones un número específico de veces, facilitando la lectura y organización del código [5].
 
 - **Inicialización** → establece el valor inicial del contador.  
 - **Condición** → determina cuántas veces se repetirá.  
