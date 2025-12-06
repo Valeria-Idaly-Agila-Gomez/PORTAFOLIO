@@ -162,7 +162,7 @@ int main() {
 ### ⭐ Diagrama de flujo –  Mostrar el nombre del día según un número ingresado
 <img width="857" height="208" alt="image" src="https://github.com/user-attachments/assets/86edb297-388f-4e05-afd4-0380fcd52178" />
 
-
+----------------------------
 
 [Presione aqui para volver a la unidad](unidad2.md)
 
