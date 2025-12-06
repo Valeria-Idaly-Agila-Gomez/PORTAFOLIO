@@ -8,7 +8,7 @@ Se utilizan cuando se necesita **repetir tareas**, recorrer datos, validar infor
 
 ## ✔️ 1. Bucle `while` (mientras)
 
-El ciclo **while** repite un bloque de instrucciones **mientras la condición sea verdadera**.  
+El ciclo **while** repite un bloque de instrucciones **mientras la condición sea verdadera** [5].  
 Antes de cada repetición, verifica la condición.  
 Si la condición es falsa desde el inicio *el ciclo no se ejecuta*.
 
