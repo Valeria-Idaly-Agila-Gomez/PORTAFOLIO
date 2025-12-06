@@ -152,6 +152,8 @@ int main() {
 ### ⭐ Diagrama de flujo – Cálculo del factorial de un número
 
 <img width="555" height="492" alt="image" src="https://github.com/user-attachments/assets/a4f9d99e-b3cd-4d33-a19b-86b547cb5362" />
+
+
 [Presione aqui para volver a la unidad](unidad2.md)
 
 
