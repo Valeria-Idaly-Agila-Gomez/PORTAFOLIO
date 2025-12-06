@@ -49,6 +49,7 @@ Se utiliza cuando siempre se debe ejecutar **una de dos opciones**:
 
 - Una si la condición es verdadera  
 - Otra si es falsa
+  
 Esta estructura permite tomar decisiones más completas dentro de un algoritmo, evaluando una condición y definiendo un comportamiento alternativo si no se cumple.
 
 ### 🔸 Su estructura es:
