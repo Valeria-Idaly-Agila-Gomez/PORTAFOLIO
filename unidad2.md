@@ -16,7 +16,7 @@
 
 
 ### 🛠️ Tareas Entregadas
-[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](herramienta.md)
+[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](https://github.com/Valeria-Idaly-Agila-Gomez/PORTAFOLIO/blob/be82a4e318bd397401c3dbb884063dd3fccf0d8f/Ape1%20Aplicaci%C3%B3n%20de%20estructuras%20condicionales%20(3).pdf)
 
 [- 💻 Instalación de lenguajes de programación (C, Python o Java)](instalacion.md)
 
