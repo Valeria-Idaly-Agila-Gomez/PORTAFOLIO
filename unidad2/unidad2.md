@@ -21,5 +21,3 @@
 [- 🔹AA 2. Cuadro comparativo entre las estructuras repetitivas](diseño.md)
 
 ---------------
-
-[Presione aqui para volver a la unidad](index.md)
