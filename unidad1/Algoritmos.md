@@ -100,16 +100,13 @@ combinando instrucciones y decisiones lógicas. Permite planificar cómo resolve
 # 🖥️ PSeInt (Pseudocode Interpreter)
 PSeInt es una de las herramientas digitales más utilizadas para representar algoritmos en pseudocódigo. Su uso facilita el aprendizaje de la lógica de programación y permite practicar antes de pasar a un lenguaje formal.
 ## 📝 Definición
-Según **Celi (2023)**, PSeInt es un **software educativo interactivo** que facilita el aprendizaje de la **lógica de programación** y la **construcción de algoritmos en pseudocódigo en español** [2].  
-Además, permite visualizar los algoritmos mediante **diagramas de flujo**, lo que ayuda a comprender mejor el funcionamiento de un programa.
+PSeInt es un software educativo interactivo que facilita el aprendizaje de la lógica de programación y la construcción de algoritmos en pseudocódigo en español [2].
+Asimismo, permite visualizar los algoritmos mediante diagramas de flujo, lo que ayuda a comprender de manera más clara el funcionamiento de un programa.
 
-**Valverde, Cajamarca y Moreano (2023)** indican que PSeInt también puede integrarse con **Diagramas de Flujo de Datos (DFD)**, extendiendo su uso a procesos más complejos [3].  
-Por su parte, **Tinedo-Rodríguez (2023)** señala que esta herramienta **fortalece el pensamiento lógico y computacional**, además de mejorar habilidades cognitivas y lingüísticas [4].
+Además, PSeInt puede integrarse con Diagramas de Flujo de Datos (DFD), ampliando su aplicación a procesos más complejos [3]. Esta herramienta contribuye a fortalecer el pensamiento lógico y computacional, al mismo tiempo que mejora habilidades cognitivas y lingüísticas [4].
 
-PSeInt ofrece un **entorno de práctica interactivo**, simulando la experiencia de programar en un lenguaje real, lo que facilita la transición a lenguajes como **C, Java o Python**.  
-Su interfaz intuitiva permite centrarse en la **lógica del problema**, sin complicaciones sintácticas.  
-Además, permite realizar **pruebas rápidas de los algoritmos**, detectando errores lógicos antes de pasar a un lenguaje formal.
-
+PSeInt ofrece un entorno de práctica interactivo, que simula la experiencia de programar en un lenguaje real, facilitando así la transición a lenguajes como C, Java o Python. Su interfaz intuitiva permite centrarse en la lógica del problema, sin preocuparse por complicaciones sintácticas.
+Además, brinda la posibilidad de realizar pruebas rápidas de los algoritmos, lo que permite detectar errores lógicos antes de implementar el código en un lenguaje formal.
 ---
 
 ## ⚙️ Funciones principales
