@@ -55,7 +55,7 @@ int main() {
 
 ## ✔️ 2. Bucle *do…while* (hacer…mientras)
 
-A diferencia del `while`, este ciclo **se ejecuta al menos una vez**, porque primero realiza las instrucciones y luego verifica la condición.
+A diferencia del `while`, este ciclo **se ejecuta al menos una vez**, porque primero realiza las instrucciones y luego verifica la condición [5].
 
 ### 🔸 Cuándo usarlo:
 - Cuando se necesita que el ciclo se ejecute **mínimo una vez**.
@@ -116,7 +116,7 @@ Incluye tres partes importantes dentro del paréntesis:
 
 - **Inicialización** → establece el valor inicial del contador.  
 - **Condición** → determina cuántas veces se repetirá.  
-- **Incremento/Decremento** → cambia el valor del contador en cada vuelta.
+- **Incremento/Decremento** → cambia el valor del contador en cada vuelta .
 
 ### 🔹 Estructura en C:
 ```c
