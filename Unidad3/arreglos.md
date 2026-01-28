@@ -180,7 +180,7 @@ int main() {
     arregloTridimensional[1][1][1] = 0;
     arregloTridimensional[1][2][0] = 11;
     arregloTridimensional[1][2][1] = 13;
-
+ 
     // Mostrar los elementos
     for (int i = 0; i < 2; i++) { // capas
         for (int j = 0; j < 3; j++) { // filas
