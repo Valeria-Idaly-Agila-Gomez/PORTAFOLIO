@@ -1,7 +1,7 @@
 # 📚 Arreglos (Arrays)
 
 Un **arreglo** (en inglés: *array*) es una **estructura de datos** que permite almacenar **varios elementos del mismo tipo** bajo un solo nombre.  
-Cada dato dentro del arreglo se llama **elemento**, y se accede a él mediante **índices**, que comienzan en **0**.
+Cada dato dentro del arreglo se llama **elemento**, y se accede a él mediante **índices**, que comienzan en **0** [6].
 
 💡 **Ventajas de los arreglos:**
 
@@ -14,7 +14,7 @@ Cada dato dentro del arreglo se llama **elemento**, y se accede a él mediante *
 # 📋 Arrays Unidimensionales (Vectores o Listas)
 
 Un **array unidimensional**, también llamado **vector** o **lista**, es una colección de datos del mismo tipo que se almacena en **posiciones consecutivas de memoria** y tiene un **nombre común**.  
-Para referirse a un elemento específico se utiliza un **índice**, que indica su posición relativa en el array.
+Para referirse a un elemento específico se utiliza un **índice**, que indica su posición relativa en el array [6].
 
 - Si el array tiene **una dimensión**, se llama **vector** o **lista**.  
 - Si tiene **dos dimensiones**, se llama **matriz**.
