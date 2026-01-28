@@ -10,9 +10,9 @@
 ----------------------------------------------
 
 ### 🛠️ Tareas Entregadas
-[- 🖋️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](herramienta.md)
+[ Teoría de la programación – Unidad 3: Programación modular y estructura de datos estáticas](herramienta.md)
 
-[- 💻 Instalación de lenguajes de programación (C, Python o Java)](instalacion.md)
+[- 💻  Teoría de la programación – Unidad 3: Programación modular y estructura de datos estáticas codigos)](instalacion.md)
 
 [- 🚀 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](construccion.md)
 
