@@ -12,7 +12,7 @@
 ### 🛠️ Tareas Entregadas
 [ Teoría de la programación – Unidad 3: Programación modular y estructura de datos estáticas](https://github.com/Valeria-Idaly-Agila-Gomez/PORTAFOLIO/blob/5c4190d82767de33927f99fdfc67384cc4b0961d/Unidad3/Construcci%C3%B3n%20de%20funciones%20y%20procedmientos%20APE1_Unidad3%20(2).pdf)
 
-[- 💻  Teoría de la programación – Unidad 3: Programación modular y estructura de datos estáticas codigos)](https://github.com/Valeria-Idaly-Agila-Gomez/PORTAFOLIO/blob/2d8d0b2ebd6e4fb75e6b883d34462984dfdf9de6/Unidad3/main1.c   https://github.com/Valeria-Idaly-Agila-Gomez/PORTAFOLIO/blob/2d8d0b2ebd6e4fb75e6b883d34462984dfdf9de6/Unidad3/main1%20(1).exe)
+[- 💻  Teoría de la programación – Unidad 3: Programación modular y estructura de datos estáticas codigos)](https://github.com/Valeria-Idaly-Agila-Gomez/PORTAFOLIO/tree/0563957903fd6d5c03435fdf1d3d8d37e9e18090/Unidad3/codigo)
 
 [- 🚀 Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](construccion.md)
 
