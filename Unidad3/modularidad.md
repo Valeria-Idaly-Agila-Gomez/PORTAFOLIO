@@ -74,7 +74,8 @@ void suma() {
     printf("La sumatoria es: %d\n", resultado);
 }
  ```
-Copilación 
+Compilación
+
 <img width="242" height="75" alt="image" src="https://github.com/user-attachments/assets/72dec966-87c4-4e9c-85b1-3d7861bf8206" />
 
 🔹 Funciones con retorno de valor
@@ -102,23 +103,84 @@ int suma() {
 }
 
  ```
-Copilación
+Compilación
+
 <img width="208" height="78" alt="image" src="https://github.com/user-attachments/assets/94d59f43-9c42-4450-b223-25f089f23416" />
 
 ## Funciones con envío de parámetros
 
 Los parámetros pueden enviarse de dos maneras:
 
-### 🔹 Envío por valor
+### 🔹 Envío por parametros por valor
 En el envío por valor, se transmite únicamente el contenido de la variable.  
 Por ejemplo, si una variable tiene el valor `5`, se envía el número `5` a la función para que lo utilice en sus instrucciones.  
 En este tipo de envío, la función trabaja con una copia del valor, por lo que la variable original no se altera.
-🔹 Envío de parámetros por valor
+ ```
+ #include <stdio.h>
+
+void modificarValor(int n);
+
+int main(){
+    int numero = 5;
+    modificarValor(numero);
+    printf("Valor de num: %d\n", numero);
+
+    return 0;
+}
+
+void modificarValor(int n){
+
+    n=15;
+}
+ ```
+Compilación
+
+<img width="359" height="90" alt="image" src="https://github.com/user-attachments/assets/44c6c2bc-b9a6-4d7c-beaa-3a620545c4dc" />
 
 
 ### 🔹 Envío por referencia
 En el envío por referencia, se envía la dirección de memoria de la variable.  
 Esto significa que, si dentro de la función se realiza algún cambio sobre el parámetro recibido, la variable original, fuera de la función, también se verá afectada por dicho cambio.
+
+ ```
+#include <stdio.h>
+
+void intercambiarValores(int *x, int *y){
+
+    int aux;
+    aux = *x;
+    *x = *y;
+    *y = aux;
+    
+    printf("Valor de x dentro de la funcion: %i\n", *x);
+    printf("Valor de y dentro de la funcion: %i\n", *y);
+}
+
+int main(){
+    int a = 3;
+    int b = 5;
+
+    intercambiarValores(&a, &b);
+
+    printf("Valor de a: %i\n", a);
+    printf("Valor de b: %i\n", b);
+
+    return 0;
+}
+ ```
+Compilacón
+
+<img width="343" height="76" alt="image" src="https://github.com/user-attachments/assets/575f5054-999b-4274-b44a-c14ff2938ea0" />
+
+## Funciones: Ventajas
+
+El uso de funciones en la programación ofrece múltiples ventajas, entre las que se destacan:
+
+- **Aplicación de la técnica divide y vencerás:** permite reducir la complejidad del programa al dividir un problema grande y complejo en subsecciones más pequeñas y manejables.
+- **Reutilización del código:** una función puede utilizarse varias veces en diferentes partes del programa sin necesidad de reescribir el mismo código.
+- **Mejor control y verificación de errores:** facilita la detección, corrección y mantenimiento de errores durante la codificación.
+- **Mayor claridad y comprensión del programa:** el código resulta más organizado, legible y menos ambiguo, lo que mejora su entendimiento.
+
 
 
 
