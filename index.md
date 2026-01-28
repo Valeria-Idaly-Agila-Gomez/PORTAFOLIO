@@ -34,7 +34,8 @@
 [4] A. Tinedo-Rodríguez, “El uso de PSeInt para el desarrollo integrado del pensamiento computacional, de las destrezas lingüísticas y de inglés para fines específicos…”, ResearchGate, 2023. Disponible en: https://www.researchgate.net/publication/376859172_El_uso_de_PSeint_para_el_desarrollo_integrado_del_pensamiento_computacional_de_las_destr...
 
 [5] M. Goin, *Caminando junto al Lenguaje C*, Editorial UNRN, 2022. Disponible en. Available: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1
-[2] J. E. Guerra Salazar, M. V. Ramos Valencia, y G. E. Vallejo Vallejo, *Programando en C desde la práctica: problemas resueltos*. Puerto Madero Editorial, 2023. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288
+
+[6] J. E. Guerra Salazar, M. V. Ramos Valencia, y G. E. Vallejo Vallejo, *Programando en C desde la práctica: problemas resueltos*. Puerto Madero Editorial, 2023. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288
 
 
 
