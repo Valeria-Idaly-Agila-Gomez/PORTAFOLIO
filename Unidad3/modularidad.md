@@ -1,23 +1,30 @@
+
 ## 📌 Modularidad
 
-Cuando se desarrollan algoritmos largos y complejos, una técnica eficaz para reducir la complejidad consiste en dividir el programa en partes más pequeñas, siguiendo el principio de **divide y vencerás**.
+💡 Cuando se desarrollan **algoritmos largos y complejos**, una técnica eficaz para reducir su dificultad consiste en **dividir el programa en partes más pequeñas**, siguiendo el principio de:
 
-En programación, esta técnica se conoce como **modularización**, la cual forma parte de los paradigmas fundamentales del desarrollo de software.
+> 🧠 **Divide y vencerás**
 
-Los módulos pueden recibir distintos nombres, tales como:
+En el ámbito de la programación, esta técnica recibe el nombre de **modularización**, y constituye uno de los **paradigmas fundamentales del desarrollo de software** [5].
 
-- **Funciones**
-- **Procedimientos**
-- **Rutinas**
-- **Subrutinas**
+---
 
-Cada módulo se encarga de realizar una tarea específica dentro del programa.
+
+| 🧩 Tipos de módulos | ✅ Importancia de la modularidad |
+|--------------------|--------------------------------|
+|Los módulos pueden recibir distintas denominaciones, entre las más comunes se encuentran:|Cada módulo se encarga de realizar **una tarea específica** dentro del programa, lo que permite:|
+|✔ **Funciones** | ✔ Mejor organización del código |
+|✔ **Procedimientos** | ✔ Facilita el mantenimiento del programa |
+|✔ **Rutinas** |✔ Permite reutilizar componentes |
+|✔ **Subrutinas** | ✔ Mejora la comprensión del algoritmo |
+|  | ✔ Reduce la complejidad aplicando *divide y vencerás* |
+
 
 --------------------
 
 ## 📌 Funciones
 
-Una **función** es un conjunto de sentencias que realiza una tarea determinada y cumple un propósito único e identificable dentro de un programa.
+Una **función** es un conjunto de sentencias que realiza una tarea determinada y cumple un propósito único e identificable dentro de un programa [6].
 
 En un lenguaje de programación como **C**, existen dos tipos de funciones:
 
@@ -39,7 +46,7 @@ Las funciones no pueden ejecutarse por sí solas; deben ser llamadas desde un pr
 | Parte | Descripción |
 |------|-------------|
 | Cabecera | Indica el tipo de dato que retorna la función, su nombre y los parámetros que recibe. |
-| Cuerpo | Conjunto de instrucciones encerradas entre llaves `{}` y, si corresponde, el valor de retorno. |
+| Cuerpo | Conjunto de instrucciones encerradas entre llaves `{}` y, si corresponde, el valor de retorno [5]. |
 
 ----------------------------
 
@@ -47,13 +54,12 @@ Las funciones no pueden ejecutarse por sí solas; deben ser llamadas desde un pr
 ### ➤ Funciones sin valor de retorno ni parámetros
 
 Son funciones que no reciben datos ni devuelven resultados.  
-Cuando una función no utiliza la instrucción `return`, se considera un **procedimiento**.
+Cuando una función no utiliza la instrucción `return`, se considera un **procedimiento** [5].
 
  ```
 #include <stdio.h>
 
-void suma();   // Prototipo de la función
-
+void suma();   
 int main() {
     suma();
     return 0;
@@ -107,14 +113,17 @@ Compilación
 
 <img width="208" height="78" alt="image" src="https://github.com/user-attachments/assets/94d59f43-9c42-4450-b223-25f089f23416" />
 
+-------------------------------------------------
+
 ## Funciones con envío de parámetros
 
 Los parámetros pueden enviarse de dos maneras:
 
 ### 🔹 Envío por parametros por valor
+
 En el envío por valor, se transmite únicamente el contenido de la variable.  
 Por ejemplo, si una variable tiene el valor `5`, se envía el número `5` a la función para que lo utilice en sus instrucciones.  
-En este tipo de envío, la función trabaja con una copia del valor, por lo que la variable original no se altera.
+En este tipo de envío, la función trabaja con una copia del valor, por lo que la variable original no se altera [6].
  ```
  #include <stdio.h>
 
@@ -137,12 +146,19 @@ Compilación
 
 <img width="359" height="90" alt="image" src="https://github.com/user-attachments/assets/44c6c2bc-b9a6-4d7c-beaa-3a620545c4dc" />
 
-
 ### 🔹 Envío por referencia
-En el envío por referencia, se envía la dirección de memoria de la variable.  
-Esto significa que, si dentro de la función se realiza algún cambio sobre el parámetro recibido, la variable original, fuera de la función, también se verá afectada por dicho cambio.
 
- ```
+En el **envío por referencia**, se envía la **dirección de memoria** de la variable.  
+Esto significa que, si dentro de la función se realiza algún cambio sobre el parámetro recibido, la **variable original** también se verá afectada [6].
+
+Para esto se utilizan los operadores:
+
+- `&` → Se antepone a una variable para obtener su **dirección de memoria**.  
+- `*` → Es un **apuntador** que accede a la dirección de la variable pasada como argumento.
+
+💡 Esto permite que los cambios realizados dentro de la función **modifiquen la variable original** [6].
+
+```
 #include <stdio.h>
 
 void intercambiarValores(int *x, int *y){
@@ -168,18 +184,24 @@ int main(){
     return 0;
 }
  ```
+
 Compilacón
 
 <img width="343" height="76" alt="image" src="https://github.com/user-attachments/assets/575f5054-999b-4274-b44a-c14ff2938ea0" />
 
-## Funciones: Ventajas
+-------------
 
-El uso de funciones en la programación ofrece múltiples ventajas, entre las que se destacan:
+## ✅ Funciones: Ventajas
 
-- **Aplicación de la técnica divide y vencerás:** permite reducir la complejidad del programa al dividir un problema grande y complejo en subsecciones más pequeñas y manejables.
-- **Reutilización del código:** una función puede utilizarse varias veces en diferentes partes del programa sin necesidad de reescribir el mismo código.
-- **Mejor control y verificación de errores:** facilita la detección, corrección y mantenimiento de errores durante la codificación.
-- **Mayor claridad y comprensión del programa:** el código resulta más organizado, legible y menos ambiguo, lo que mejora su entendimiento.
+El uso de funciones en la programación ofrece múltiples beneficios. Se destacan los siguientes:
+
+| 🔹 Ventaja | 📖 Descripción |
+|------------|----------------|
+| **Divide y vencerás** | Permite reducir la complejidad del programa al dividir un problema grande y complejo en partes más pequeñas y manejables. |
+| **Reutilización del código** | Una función puede utilizarse varias veces en diferentes partes del programa sin necesidad de reescribir el mismo código. |
+| **Control y verificación de errores** | Facilita la detección, corrección y mantenimiento de errores durante la codificación. |
+| **Mayor claridad y comprensión** | El código se vuelve más organizado, legible y menos ambiguo, lo que mejora su entendimiento. |
+
 
 
 
