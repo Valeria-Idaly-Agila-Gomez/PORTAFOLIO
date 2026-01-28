@@ -17,7 +17,7 @@
  [- 🧩 **Unidad 2**](unidad2/unidad2.md)
 
 ## ○ Unidad 3
-- 🚫 No aplica
+[- 🧩 **Unidad 3**](Unidad3/Unidad3.md)
 
 ## ○ Conclusiones Generales
 - 🚫 No aplica
