@@ -20,7 +20,7 @@
 [- 🧩 **Unidad 3**](Unidad3/Unidad3.md)
 
 ## ○ Conclusiones Generales
-[- 🧩 **Conslusiones**](concluciones.md)
+[- 🧩 **Conclusiones**](concluciones.md)
 
 ## ○ Bibliografía (Formato IEEE)
 
